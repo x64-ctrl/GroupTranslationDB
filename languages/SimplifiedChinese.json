@@ -1,0 +1,1972 @@
+{
+    "Main Menu":
+     "主菜单",
+    "Online Players":
+     "在线玩家",
+    "All currently connected players.":
+     "现在正在游玩的玩家",
+    "Banned Players":
+     "已封禁玩家",
+    "View and manage all banned players in this menu.":
+     "管理此脚本",
+    "Player Related Options":
+     "玩家相关选项",
+    "Open this submenu for player related subcategories.":
+     "Open this submenu for player related subcategories.",
+    "Vehicle Related Options":
+     "载具相关选项",
+    "Open this submenu for vehicle related subcategories.":
+     "Open this submenu for vehicle related subcategories.",
+    "World Related Options":
+     "世界相关选项",
+    "Open this submenu for world related subcategories.":
+     "打开此子菜单",
+    "Voice Chat Settings":
+     "语音聊天设置",
+    "Change Voice Chat options here.":
+     "修改语音聊天相关的选项",
+    "Recording Options":
+     "录制相关选项",
+    "In-game recording options.":
+     "利用 R*编辑器 进行游戏内剪辑录制的相关选项",
+    "Misc Settings":
+     "其他选项",
+    "Miscellaneous vMenu options/settings can be configured here. You can also save your settings in this menu.":
+     "Miscellaneous vMenu options/settings can be configured here. You can also save your settings in this menu.",
+    "About vMenu":
+     "关于 vMenu",
+    "Information about vMenu.":
+     "Information about vMenu.",
+    "Player Options":
+     "Player Options",
+    "Common player options can be accessed here.":
+     "Common player options can be accessed here.",
+    "Player Appearance":
+     "Player Appearance",
+    "Choose a ped model, customize it and save & load your customized characters.":
+     "Choose a ped model, customize it and save & load your customized characters.",
+    "MP Ped Customization":
+     "自定义线上模式角色",
+    "Create, edit, save and load multiplayer peds. ~r~Note, you can only save peds created in this submenu. vMenu can NOT detect peds created outside of this submenu. Simply due to GTA limitations.":
+     "Create, edit, save and load multiplayer peds. ~r~Note, you can only save peds created in this submenu. vMenu can NOT detect peds created outside of this submenu. Simply due to GTA limitations.",
+    "Weapon Options":
+     "武器选项",
+    "Add/remove weapons, modify weapons and set ammo options.":
+     "刷出或收回武器，以及武器改装和弹药相关选项",
+    "Weapon Loadouts":
+     "武器组",
+    "Mange, and spawn saved weapon loadouts.":
+     "管理或刷出已保存的武器组",
+    "Toggle NoClip":
+     "开关无界飞行",
+    "Toggle NoClip on or off.":
+     "启用或停用无界飞行",
+    "Vehicle Options":
+     "载具选项",
+    "Here you can change common vehicle options, as well as tune & style your vehicle.":
+     "修改载具的一些通常的、改装和样貌之类的选项",
+    "Vehicle Spawner":
+     "刷出载具",
+    "Spawn a vehicle by name or choose one from a specific category.":
+     "通过名称或分类选单刷出载具",
+    "Saved Vehicles":
+     "保存载具",
+    "Save new vehicles, or spawn or delete already saved vehicles.":
+     "保存一辆载具，以及已保存载具的管理有关的选项",
+    "Personal Vehicle":
+     "私有载具",
+    "Set a vehicle as your personal vehicle, and control some things about that vehicle when you're not inside.":
+     "设置私有载具，以及其自定义有关的选项",
+    "World Options":
+     "世界选项",
+    "Time Options":
+     "时间选项",
+    "Change the time, and edit other time related options.":
+     "更改游戏内时间，以及其他与时间有关的选项",
+    "Weather Options":
+     "天气选项",
+    "Change all weather related options here.":
+     "在此修改与天气有关的选项",
+    "Player:":
+     "玩家:",
+    "Send Private Message":
+     "发送私信",
+    "Sends a private message to this player. ~r~Note: staff may be able to see all PM's.":
+     "向此玩家发送私聊信息 ~r~注意：管理员可能会查看到所有私信",
+    "Teleport To Player":
+     "传送到玩家",
+    "Teleport to this player.":
+     "传送到此位玩家",
+    "Teleport Into Player Vehicle":
+     "传送到玩家载具内",
+    "Teleport into the vehicle of the player.":
+     "传送到此位玩家的载具内",
+    "Summon Player":
+     "Summon Player",
+    "Teleport the player to you.":
+     "Teleport the player to you.",
+    "Spectate Player":
+     "偷窥玩家",
+    "Spectate this player. Click this button again to stop spectating.":
+     "偷窥此玩家，再按一次本按钮以结束偷窥",
+    "Toggle GPS":
+     "设置 GPS",
+    "Enables or disables the GPS route on your radar to this player.":
+     "开关到此玩家的 GPS 导航",
+    "Print Identifiers":
+     "Print Identifiers",
+    "This will print the player's identifiers to the client console (F8). And also save it to the CitizenFX.log file.":
+     "This will print the player's identifiers to the client console (F8). And also save it to the CitizenFX.log file.",
+    "~r~Kill Player":
+     "~r~Kill Player",
+    "Kill this player, note they will receive a notification saying that you killed them. It will also be logged in the Staff Actions log.":
+     "Kill this player, note they will receive a notification saying that you killed them. It will also be logged in the Staff Actions log.",
+    "~r~Kick Player":
+     "~r~踢出玩家",
+    "Kick the player from the server.":
+     "踢出此玩家",
+    "~r~Ban Player Temporarily":
+     "~r~限时封禁玩家",
+    "Give this player a tempban of up to 30 days (max). You can specify duration and ban reason after clicking this button.":
+     "Give this player a tempban of up to 30 days (max). You can specify duration and ban reason after clicking this button.",
+    "~r~Ban Player Permanently":
+     "~r~永久封禁玩家",
+    "Ban this player permanently from the server. Are you sure you want to do this? You can specify the ban reason after clicking this button.":
+     "Ban this player permanently from the server. Are you sure you want to do this? You can specify the ban reason after clicking this button.",
+    "Driving Style":
+     "驾驶风格",
+    "Custom Driving Style":
+     "自定义驾驶风格",
+    "Stop before vehicles":
+     "避让车辆",
+    "Toggle this driving style flag.":
+     "开关此驾驶风格属性",
+    "Stop before peds":
+     "避让行人",
+    "Avoid vehicles":
+     "避开载具",
+    "Avoid empty vehicles":
+     "避开空载具",
+    "Avoid peds":
+     "避开行人",
+    "Avoid objects":
+     "避开物体",
+    "~r~Unknown Flag":
+     "~r~未知属性",
+    "Stop at traffic lights":
+     "等待红绿灯",
+    "Use blinkers":
+     "使用转弯灯",
+    "Allow going wrong way":
+     "允许驶向错误路线",
+    "Go in reverse gear":
+     "Go in reverse gear",
+    "Use shortest path":
+     "使用最短路径",
+    "Ignore roads":
+     "无视公路",
+    "Ignore all pathing":
+     "无视所有路径",
+    "Avoid highways (if possible)":
+     "尽量避开高速公路",
+    "Auto Pilot":
+     "自动驾驶",
+    "Vehicle auto pilot options.":
+     "载具的自动驾驶选项",
+    "Set the driving style that is used for the Drive to Waypoint and Drive Around Randomly functions.":
+     "Set the driving style that is used for the Drive to Waypoint and Drive Around Randomly functions.",
+    "Select a custom driving style. Make sure to also enable it by selecting the 'Custom' driving style in the driving styles list.":
+     "Select a custom driving style. Make sure to also enable it by selecting the 'Custom' driving style in the driving styles list.",
+    "Drive To Waypoint":
+     "Drive To Waypoint",
+    "Make your player ped drive your vehicle to your waypoint.":
+     "Make your player ped drive your vehicle to your waypoint.",
+    "Drive Around Randomly":
+     "Drive Around Randomly",
+    "Make your player ped drive your vehicle randomly around the map.":
+     "Make your player ped drive your vehicle randomly around the map.",
+    "Stop Driving":
+     "Stop Driving",
+    "The player ped will find a suitable place to stop the vehicle. The task will be stopped once the vehicle has reached the suitable stop location.":
+     "The player ped will find a suitable place to stop the vehicle. The task will be stopped once the vehicle has reached the suitable stop location.",
+    "Force Stop Driving":
+     "Force Stop Driving",
+    "This will stop the driving task immediately without finding a suitable place to stop.":
+     "This will stop the driving task immediately without finding a suitable place to stop.",
+    "Godmode":
+     "Godmode",
+    "Makes you invincible.":
+     "Makes you invincible.",
+    "Invisible":
+     "Invisible",
+    "Makes you invisible to yourself and others.":
+     "Makes you invisible to yourself and others.",
+    "Unlimited Stamina":
+     "Unlimited Stamina",
+    "Allows you to run forever without slowing down or taking damage.":
+     "Allows you to run forever without slowing down or taking damage.",
+    "Fast Run":
+     "Fast Run",
+    "Get ~g~Snail~s~ powers and run very fast!":
+     "Get ~g~Snail~s~ powers and run very fast!",
+    "Fast Swim":
+     "Fast Swim",
+    "Get ~g~Snail 2.0~s~ powers and swim super fast!":
+     "Get ~g~Snail 2.0~s~ powers and swim super fast!",
+    "Super Jump":
+     "Super Jump",
+    "Get ~g~Snail 3.0~s~ powers and jump like a champ!":
+     "Get ~g~Snail 3.0~s~ powers and jump like a champ!",
+    "No Ragdoll":
+     "No Ragdoll",
+    "Disables player ragdoll, makes you not fall off your bike anymore.":
+     "Disables player ragdoll, makes you not fall off your bike anymore.",
+    "Never Wanted":
+     "Never Wanted",
+    "Disables all wanted levels.":
+     "Disables all wanted levels.",
+    "Set Wanted Level":
+     "Set Wanted Level",
+    "Set your wanted level by selecting a value, and pressing enter.":
+     "Set your wanted level by selecting a value, and pressing enter.",
+    "Everyone Ignore Player":
+     "Everyone Ignore Player",
+    "Everyone will leave you alone.":
+     "Everyone will leave you alone.",
+    "Stay In Vehicle":
+     "Stay In Vehicle",
+    "When this is enabled, NPCs will not be able to drag you out of your vehicle if they get angry at you.":
+     "When this is enabled, NPCs will not be able to drag you out of your vehicle if they get angry at you.",
+    "Heal Player":
+     "Heal Player",
+    "Give the player max health.":
+     "Give the player max health.",
+    "Set Armor Type":
+     "Set Armor Type",
+    "Set the armor level/type for your player.":
+     "Set the armor level/type for your player.",
+    "Clean Player Clothes":
+     "Clean Player Clothes",
+    "Clean your player clothes.":
+     "Clean your player clothes.",
+    "Dry Player Clothes":
+     "Dry Player Clothes",
+    "Make your player clothes dry.":
+     "Make your player clothes dry.",
+    "Wet Player Clothes":
+     "Wet Player Clothes",
+    "Make your player clothes wet.":
+     "Make your player clothes wet.",
+    "~r~Commit Suicide":
+     "~r~Commit Suicide",
+    "Kill yourself by taking the pill. Or by using a pistol if you have one.":
+     "Kill yourself by taking the pill. Or by using a pistol if you have one.",
+    "Vehicle Auto Pilot Menu":
+     "Vehicle Auto Pilot Menu",
+    "Manage vehicle auto pilot options.":
+     "Manage vehicle auto pilot options.",
+    "Freeze Player":
+     "Freeze Player",
+    "Freezes your current location.":
+     "Freezes your current location.",
+    "Player Scenarios":
+     "Player Scenarios",
+    "Select a scenario and hit enter to start it. Selecting another scenario will override the current scenario. If you're already playing the selected scenario, selecting it again will stop the scenario.":
+     "Select a scenario and hit enter to start it. Selecting another scenario will override the current scenario. If you're already playing the selected scenario, selecting it again will stop the scenario.",
+    "Force Stop Scenario":
+     "Force Stop Scenario",
+    "This will force a playing scenario to stop immediately, without waiting for it to finish it's 'stopping' animation.":
+     "This will force a playing scenario to stop immediately, without waiting for it to finish it's 'stopping' animation.",
+    "Vehicle Godmode":
+     "Vehicle Godmode",
+    "Vehicle Godmode Options":
+     "Vehicle Godmode Options",
+    "Invincible":
+     "Invincible",
+    "Makes the car invincible. Includes fire damage, explosion damage, collision damage and more.":
+     "Makes the car invincible. Includes fire damage, explosion damage, collision damage and more.",
+    "Engine Damage":
+     "Engine Damage",
+    "Disables your engine from taking any damage.":
+     "Disables your engine from taking any damage.",
+    "Visual Damage":
+     "Visual Damage",
+    "This prevents scratches and other damage decals from being applied to your vehicle. It does not prevent (body) deformation damage.":
+     "This prevents scratches and other damage decals from being applied to your vehicle. It does not prevent (body) deformation damage.",
+    "Strong Wheels":
+     "Strong Wheels",
+    "Disables your wheels from being deformed and causing reduced handling. This does not make tires bulletproof.":
+     "Disables your wheels from being deformed and causing reduced handling. This does not make tires bulletproof.",
+    "Ramp Damage":
+     "Ramp Damage",
+    "Disables vehicles such as the Ramp Buggy from taking damage when using the ramp.":
+     "Disables vehicles such as the Ramp Buggy from taking damage when using the ramp.",
+    "~r~Auto Repair":
+     "~r~Auto Repair",
+    "Automatically repairs your vehicle when it has ANY type of damage. It's recommended to keep this turned off to prevent glitchyness.":
+     "Automatically repairs your vehicle when it has ANY type of damage. It's recommended to keep this turned off to prevent glitchyness.",
+    "Vehicle Doors":
+     "Vehicle Doors",
+    "Vehicle Doors Management":
+     "Vehicle Doors Management",
+    "Left Front Door":
+     "Left Front Door",
+    "Open/close the left front door.":
+     "Open/close the left front door.",
+    "Right Front Door":
+     "Right Front Door",
+    "Open/close the right front door.":
+     "Open/close the right front door.",
+    "Left Rear Door":
+     "Left Rear Door",
+    "Open/close the left rear door.":
+     "Open/close the left rear door.",
+    "Right Rear Door":
+     "Right Rear Door",
+    "Open/close the right rear door.":
+     "Open/close the right rear door.",
+    "Hood":
+     "Hood",
+    "Open/close the hood.":
+     "Open/close the hood.",
+    "Trunk":
+     "Trunk",
+    "Open/close the trunk.":
+     "Open/close the trunk.",
+    "Extra 1":
+     "Extra 1",
+    "Open/close the extra door (#1). Note this door is not present on most vehicles.":
+     "Open/close the extra door (#1). Note this door is not present on most vehicles.",
+    "Extra 2":
+     "Extra 2",
+    "Open/close the extra door (#2). Note this door is not present on most vehicles.":
+     "Open/close the extra door (#2). Note this door is not present on most vehicles.",
+    "Bomb Bay":
+     "Bomb Bay",
+    "Open/close the bomb bay. Only available on some planes.":
+     "Open/close the bomb bay. Only available on some planes.",
+    "Open All Doors":
+     "Open All Doors",
+    "Open all vehicle doors.":
+     "Open all vehicle doors.",
+    "Close All Doors":
+     "Close All Doors",
+    "Close all vehicle doors.":
+     "Close all vehicle doors.",
+    "Remove Door":
+     "Remove Door",
+    "Remove a specific vehicle door completely.":
+     "Remove a specific vehicle door completely.",
+    "Delete Removed Doors":
+     "Delete Removed Doors",
+    "When enabled, doors that you remove using the list above will be deleted from the world. If disabled, then the doors will just fall on the ground.":
+     "When enabled, doors that you remove using the list above will be deleted from the world. If disabled, then the doors will just fall on the ground.",
+    "Vehicle Windows":
+     "Vehicle Windows",
+    "Vehicle Windows Management":
+     "Vehicle Windows Management",
+    "~y~↑~s~ Roll Front Windows Up":
+     "~y~↑~s~ Roll Front Windows Up",
+    "Roll both front windows up.":
+     "Roll both front windows up.",
+    "~o~↓~s~ Roll Front Windows Down":
+     "~o~↓~s~ Roll Front Windows Down",
+    "Roll both front windows down.":
+     "Roll both front windows down.",
+    "~y~↑~s~ Roll Rear Windows Up":
+     "~y~↑~s~ Roll Rear Windows Up",
+    "Roll both rear windows up.":
+     "Roll both rear windows up.",
+    "~o~↓~s~ Roll Rear Windows Down":
+     "~o~↓~s~ Roll Rear Windows Down",
+    "Roll both rear windows down.":
+     "Roll both rear windows down.",
+    "Vehicle Colors":
+     "Vehicle Colors",
+    "Primary Color":
+     "Primary Color",
+    "Secondary Color":
+     "Secondary Color",
+    "Chrome":
+     "Chrome",
+    "Vehicle Enveff Scale":
+     "Vehicle Enveff Scale",
+    "This works on certain vehicles only, like the besra for example. It 'fades' certain paint layers.":
+     "This works on certain vehicles only, like the besra for example. It 'fades' certain paint layers.",
+    "Dashboard Color":
+     "Dashboard Color",
+    "Interior / Trim Color":
+     "Interior / Trim Color",
+    "Wheel Color":
+     "Wheel Color",
+    "Confirm Action":
+     "Confirm Action",
+    "Delete Vehicle, Are You Sure?":
+     "Delete Vehicle, Are You Sure?",
+    "NO, CANCEL":
+     "NO, CANCEL",
+    "NO, do NOT delete my vehicle and go back!":
+     "NO, do NOT delete my vehicle and go back!",
+    "~r~YES, DELETE":
+     "~r~YES, DELETE",
+    "Yes I'm sure, delete my vehicle please, I understand that this cannot be undone.":
+     "Yes I'm sure, delete my vehicle please, I understand that this cannot be undone.",
+    "Vehicle Neon Kits":
+     "Vehicle Neon Kits",
+    "Vehicle Neon Underglow Options":
+     "Vehicle Neon Underglow Options",
+    "Enable Front Light":
+     "Enable Front Light",
+    "Enable or disable the underglow on the front side of the vehicle. Note not all vehicles have lights.":
+     "Enable or disable the underglow on the front side of the vehicle. Note not all vehicles have lights.",
+    "Enable Rear Light":
+     "Enable Rear Light",
+    "Enable or disable the underglow on the left side of the vehicle. Note not all vehicles have lights.":
+     "Enable or disable the underglow on the left side of the vehicle. Note not all vehicles have lights.",
+    "Enable Left Light":
+     "Enable Left Light",
+    "Enable or disable the underglow on the right side of the vehicle. Note not all vehicles have lights.":
+     "Enable or disable the underglow on the right side of the vehicle. Note not all vehicles have lights.",
+    "Enable Right Light":
+     "Enable Right Light",
+    "Enable or disable the underglow on the back side of the vehicle. Note not all vehicles have lights.":
+     "Enable or disable the underglow on the back side of the vehicle. Note not all vehicles have lights.",
+    "Neon Color":
+     "Neon Color",
+    "Select the color of the neon underglow.":
+     "Select the color of the neon underglow.",
+    "Primary Colors":
+     "Primary Colors",
+    "Classic":
+     "Classic",
+    "Metallic":
+     "Metallic",
+    "Matte":
+     "Matte",
+    "Metals":
+     "Metals",
+    "Util":
+     "Util",
+    "Worn":
+     "Worn",
+    "Secondary Colors":
+     "Secondary Colors",
+    "Pearlescent":
+     "Pearlescent",
+    "Vehicle God Mode":
+     "Vehicle God Mode",
+    "Makes your vehicle not take any damage. Note, you need to go into the god menu options below to select what kind of damage you want to disable.":
+     "Makes your vehicle not take any damage. Note, you need to go into the god menu options below to select what kind of damage you want to disable.",
+    "God Mode Options":
+     "God Mode Options",
+    "Enable or disable specific damage types.":
+     "Enable or disable specific damage types.",
+    "Repair Vehicle":
+     "Repair Vehicle",
+    "Repair any visual and physical damage present on your vehicle.":
+     "Repair any visual and physical damage present on your vehicle.",
+    "Keep Vehicle Clean":
+     "Keep Vehicle Clean",
+    "This will constantly clean your car if the vehicle dirt level goes above 0. Note that this only cleans ~o~dust~s~ or ~o~dirt~s~. This does not clean mud, snow or other ~r~damage decals~s~. Repair your vehicle to remove them.":
+     "This will constantly clean your car if the vehicle dirt level goes above 0. Note that this only cleans ~o~dust~s~ or ~o~dirt~s~. This does not clean mud, snow or other ~r~damage decals~s~. Repair your vehicle to remove them.",
+    "Wash Vehicle":
+     "Wash Vehicle",
+    "Clean your vehicle.":
+     "Clean your vehicle.",
+    "Set Dirt Level":
+     "Set Dirt Level",
+    "Select how much dirt should be visible on your vehicle, press ~r~enter~s~ to apply the selected level.":
+     "Select how much dirt should be visible on your vehicle, press ~r~enter~s~ to apply the selected level.",
+    "Mod Menu":
+     "Mod Menu",
+    "Tune and customize your vehicle here.":
+     "Tune and customize your vehicle here.",
+    "Style your vehicle even further by giving it some ~g~Snailsome ~s~colors!":
+     "Style your vehicle even further by giving it some ~g~Snailsome ~s~colors!",
+    "Make your vehicle shine with some fancy neon underglow!":
+     "Make your vehicle shine with some fancy neon underglow!",
+    "Vehicle Liveries":
+     "Vehicle Liveries",
+    "Style your vehicle with fancy liveries!":
+     "Style your vehicle with fancy liveries!",
+    "Vehicle Extras":
+     "Vehicle Extras",
+    "Add/remove vehicle components/extras.":
+     "Add/remove vehicle components/extras.",
+    "Toggle Engine On/Off":
+     "Toggle Engine On/Off",
+    "Turn your engine on/off.":
+     "Turn your engine on/off.",
+    "Set License Plate Text":
+     "Set License Plate Text",
+    "Enter a custom license plate for your vehicle.":
+     "Enter a custom license plate for your vehicle.",
+    "License Plate Type":
+     "License Plate Type",
+    "Choose a license plate type and press ~r~enter ~s~to apply it to your vehicle.":
+     "Choose a license plate type and press ~r~enter ~s~to apply it to your vehicle.",
+    "Open, close, remove and restore vehicle doors here.":
+     "Open, close, remove and restore vehicle doors here.",
+    "Roll your windows up/down or remove/restore your vehicle windows here.":
+     "Roll your windows up/down or remove/restore your vehicle windows here.",
+    "Bike Seatbelt":
+     "Bike Seatbelt",
+    "Prevents you from being knocked off your bike, bicyle, ATV or similar.":
+     "Prevents you from being knocked off your bike, bicyle, ATV or similar.",
+    "Speed Limiter":
+     "Speed Limiter",
+    "Set your vehicles max speed to your ~y~current speed~s~. Resetting your vehicles max speed will set the max speed of your current vehicle back to default. Only your current vehicle is affected by this option.":
+     "Set your vehicles max speed to your ~y~current speed~s~. Resetting your vehicles max speed will set the max speed of your current vehicle back to default. Only your current vehicle is affected by this option.",
+    "Enable Torque Multiplier":
+     "Enable Torque Multiplier",
+    "Enables the torque multiplier selected from the list below.":
+     "Enables the torque multiplier selected from the list below.",
+    "Set Engine Torque Multiplier":
+     "Set Engine Torque Multiplier",
+    "Set the engine torque multiplier.":
+     "Set the engine torque multiplier.",
+    "Enable Power Multiplier":
+     "Enable Power Multiplier",
+    "Enables the power multiplier selected from the list below.":
+     "Enables the power multiplier selected from the list below.",
+    "Set Engine Power Multiplier":
+     "Set Engine Power Multiplier",
+    "Set the engine power multiplier.":
+     "Set the engine power multiplier.",
+    "Disable Plane Turbulence":
+     "Disable Plane Turbulence",
+    "Disables the turbulence for all planes. Note only works for planes. Helicopters and other flying vehicles are not supported.":
+     "Disables the turbulence for all planes. Note only works for planes. Helicopters and other flying vehicles are not supported.",
+    "Flip Vehicle":
+     "Flip Vehicle",
+    "Sets your current vehicle on all 4 wheels.":
+     "Sets your current vehicle on all 4 wheels.",
+    "Toggle Vehicle Alarm":
+     "Toggle Vehicle Alarm",
+    "Starts/stops your vehicle's alarm.":
+     "Starts/stops your vehicle's alarm.",
+    "Cycle Through Vehicle Seats":
+     "Cycle Through Vehicle Seats",
+    "Cycle through the available vehicle seats.":
+     "Cycle through the available vehicle seats.",
+    "Vehicle Lights":
+     "Vehicle Lights",
+    "Turn vehicle lights on/off.":
+     "Turn vehicle lights on/off.",
+    "Fix / Destroy Tires":
+     "Fix / Destroy Tires",
+    "Fix or destroy a specific vehicle tire, or all of them at once. Note, not all indexes are valid for all vehicles, some might not do anything on certain vehicles.":
+     "Fix or destroy a specific vehicle tire, or all of them at once. Note, not all indexes are valid for all vehicles, some might not do anything on certain vehicles.",
+    "Freeze Vehicle":
+     "Freeze Vehicle",
+    "Freeze your vehicle's position.":
+     "Freeze your vehicle's position.",
+    "Toggle Vehicle Visibility":
+     "Toggle Vehicle Visibility",
+    "Makes your vehicle visible/invisible. ~r~Your vehicle will be made visible again as soon as you leave the vehicle. Otherwise you would not be able to get back in.":
+     "Makes your vehicle visible/invisible. ~r~Your vehicle will be made visible again as soon as you leave the vehicle. Otherwise you would not be able to get back in.",
+    "Engine Always On":
+     "Engine Always On",
+    "Keeps your vehicle engine on when you exit your vehicle.":
+     "Keeps your vehicle engine on when you exit your vehicle.",
+    "Infinite Fuel":
+     "Infinite Fuel",
+    "Enables or disables infinite fuel for this vehicle, only works if FRFuel is installed.":
+     "Enables or disables infinite fuel for this vehicle, only works if FRFuel is installed.",
+    "Show Vehicle Health":
+     "Show Vehicle Health",
+    "Shows the vehicle health on the screen.":
+     "Shows the vehicle health on the screen.",
+    "Default Radio Station":
+     "Default Radio Station",
+    "Select a default radio station to be set when spawning new car":
+     "Select a default radio station to be set when spawning new car",
+    "Disable Siren":
+     "Disable Siren",
+    "Disables your vehicle's siren. Only works if your vehicle actually has a siren.":
+     "Disables your vehicle's siren. Only works if your vehicle actually has a siren.",
+    "No Bike Helmet":
+     "No Bike Helmet",
+    "No longer auto-equip a helmet when getting on a bike or quad.":
+     "No longer auto-equip a helmet when getting on a bike or quad.",
+    "Flash Highbeams On Honk":
+     "Flash Highbeams On Honk",
+    "Turn on your highbeams on your vehicle when honking your horn. Does not work during the day when you have your lights turned off.":
+     "Turn on your highbeams on your vehicle when honking your horn. Does not work during the day when you have your lights turned off.",
+    "~r~Delete Vehicle":
+     "~r~Delete Vehicle",
+    "Delete your vehicle, this ~r~can NOT be undone~s~!":
+     "Delete your vehicle, this ~r~can NOT be undone~s~!",
+    "Addon Vehicles":
+     "Addon Vehicles",
+    "Choose how you'd like to find your car":
+     "Choose how you'd like to find your car",
+    "Compacts":
+     "小型汽车",
+    "There are no addon cars available in this category.":
+     "此分类里没有添加式载具",
+    "Sedans":
+     "轿车",
+    "SUVs":
+     "SUV",
+    "Coupes":
+     "轿跑车",
+    "Muscle":
+     "肌肉车",
+    "Sports Classics":
+     "经典跑车",
+    "Sports":
+     "跑车",
+    "Super":
+     "超级跑车",
+    "Motorcycles":
+     "摩托车",
+    "Off-Road":
+     "越野车",
+    "Industrial":
+     "工业用车",
+    "Utility":
+     "公共事业用车",
+    "Vans":
+     "厢型车",
+    "Cycles":
+     "自行车",
+    "Boats":
+     "船",
+    "Helicopters":
+     "直升机",
+    "Planes":
+     "飞机",
+    "Service":
+     "服务用车",
+    "Emergency":
+     "特种车",
+    "Military":
+     "军用车",
+    "Commercial":
+     "商用车",
+    "Trains":
+     "火车",
+    "Open Wheel":
+     "开轮式",
+    "Unavailable Vehicles":
+     "不可用载具",
+    "These addon vehicles are not currently being streamed (correctly) and are not able to be spawned.":
+     "这些载具未被串流或配置错误而无法刷出",
+    "Spawn Vehicle By Model Name":
+     "通过名称刷出载具",
+    "Enter the name of a vehicle to spawn.":
+     "手动输入载具名来刷出载具",
+    "Spawn Inside Vehicle":
+     "刷出到载具内",
+    "This will teleport you into the vehicle when you spawn it.":
+     "此选项会使您在载具刷出后坐进驾驶位",
+    "Replace Previous Vehicle":
+     "替换前一载具",
+    "This will automatically delete your previously spawned vehicle when you spawn a new vehicle.":
+     "此选项会自动在刷出载具时替换您正驾驶的载具",
+    "A list of addon vehicles available on this server.":
+     "服务器上可用的添加式载具列表",
+    "Spawn a vehicle from the ~o~Compacts ~s~class.":
+     "从 ~o~小型汽车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Sedans ~s~class.":
+     "从 ~o~轿车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~SUVs ~s~class.":
+     "从 ~o~SUV ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Coupes ~s~class.":
+     "从 ~o~轿跑车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Muscle ~s~class.":
+     "从 ~o~肌肉车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Sports Classics ~s~class.":
+     "从 ~o~经典跑车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Sports ~s~class.":
+     "从 ~o~跑车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Super ~s~class.":
+     "从 ~o~超级跑车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Motorcycles ~s~class.":
+     "从 ~o~摩托车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Off-Road ~s~class.":
+     "从 ~o~越野车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Industrial ~s~class.":
+     "从 ~o~工业用车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Utility ~s~class.":
+     "从 ~o~公共事业用车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Vans ~s~class.":
+     "从 ~o~厢型车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Cycles ~s~class.":
+     "从 ~o~自行车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Boats ~s~class.":
+     "从 ~o~船 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Helicopters ~s~class.":
+     "从 ~o~直升机 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Planes ~s~class.":
+     "从 ~o~飞机 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Service ~s~class.":
+     "从 ~o~服务用车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Emergency ~s~class.":
+     "从 ~o~特种车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Military ~s~class.":
+     "从 ~o~军用车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Commercial ~s~class.":
+     "从 ~o~商用车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Trains ~s~class.":
+     "从 ~o~火车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Open Wheel ~s~class.":
+     "从 ~o~开轮式 ~s~分类中刷出一辆载具",
+    "Manage Vehicle":
+     "Manage Vehicle",
+    "Manage this saved vehicle.":
+     "Manage this saved vehicle.",
+    "Spawn Vehicle":
+     "Spawn Vehicle",
+    "Spawn this saved vehicle.":
+     "Spawn this saved vehicle.",
+    "Rename Vehicle":
+     "Rename Vehicle",
+    "Rename your saved vehicle.":
+     "Rename your saved vehicle.",
+    "~r~Replace Vehicle":
+     "~r~Replace Vehicle",
+    "Your saved vehicle will be replaced with the vehicle you are currently sitting in. ~r~Warning: this can NOT be undone!":
+     "这将用当前驾驶载具替换已保存载具 ~r~警告：操作不可撤销！",
+    "~r~This will delete your saved vehicle. Warning: this can NOT be undone!":
+     "~r~这将删除此已保存载具。且操作不可撤销！",
+    "Manage Saved Vehicles":
+     "管理已保存载具",
+    "Save Current Vehicle":
+     "保存当前载具",
+    "Save the vehicle you are currently sitting in.":
+     "保存当前驾驶的载具",
+    "All saved vehicles from the Compacts category.":
+     "所有 小型汽车 分类下的已保存载具",
+    "All saved vehicles from the Sedans category.":
+     "所有 轿车 分类下的已保存载具",
+    "All saved vehicles from the SUVs category.":
+     "所有 SUV 分类下的已保存载具",
+    "All saved vehicles from the Coupes category.":
+     "所有 轿跑车 分类下的已保存载具",
+    "All saved vehicles from the Muscle category.":
+     "所有 肌肉车 分类下的已保存载具",
+    "All saved vehicles from the Sports Classics category.":
+     "所有 经典跑车 分类下的已保存载具",
+    "All saved vehicles from the Sports category.":
+     "所有 跑车 分类下的已保存载具",
+    "All saved vehicles from the Super category.":
+     "所有 超级跑车 分类下的已保存载具",
+    "All saved vehicles from the Motorcycles category.":
+     "所有 摩托车 分类下的已保存载具",
+    "All saved vehicles from the Off-Road category.":
+     "所有 越野车 分类下的已保存载具",
+    "All saved vehicles from the Industrial category.":
+     "所有 工业用车 分类下的已保存载具",
+    "All saved vehicles from the Utility category.":
+     "所有 公共事业用车 分类下的已保存载具",
+    "All saved vehicles from the Vans category.":
+     "所有 厢型车 分类下的已保存载具",
+    "All saved vehicles from the Cycles category.":
+     "所有 自行车 分类下的已保存载具",
+    "All saved vehicles from the Boats category.":
+     "所有 船 分类下的已保存载具",
+    "All saved vehicles from the Helicopters category.":
+     "所有 直升机 分类下的已保存载具",
+    "All saved vehicles from the Planes category.":
+     "所有 飞机 分类下的已保存载具",
+    "All saved vehicles from the Service category.":
+     "所有 服务用车 分类下的已保存载具",
+    "All saved vehicles from the Emergency category.":
+     "所有 特种车 分类下的已保存载具",
+    "All saved vehicles from the Military category.":
+     "所有 军用车 分类下的已保存载具",
+    "All saved vehicles from the Commercial category.":
+     "所有 商用车 分类下的已保存载具",
+    "All saved vehicles from the Trains category.":
+     "所有 火车 分类下的已保存载具",
+    "All saved vehicles from the Open Wheel category.":
+     "所有 开轮式 分类下的已保存载具",
+    "Unavailable Saved Vehicles":
+     "不可用已保存载具",
+    "These vehicles are currently unavailable because the models are not present in the game. These vehicles are most likely not being streamed from the server.":
+     "因为不存在而不可用的载具，通常是因为服务器无对应串流",
+    "Personal Vehicle Options":
+     "私有载具相关选项",
+    "Set Vehicle":
+     "设置为私有载具",
+    "Sets your current vehicle as your personal vehicle. If you already have a personal vehicle set then this will override your selection.":
+     "设置当前载具为私有载具。再次设置会覆盖掉前一私有载具",
+    "Toggle Engine":
+     "切换引擎状态",
+    "Toggles the engine on or off, even when you're not inside of the vehicle. This does not work if someone else is currently using your vehicle.":
+     "在载具外开启或关闭引擎，有人使用载具时不可用",
+    "Set Vehicle Lights":
+     "切换灯光状态",
+    "This will enable or disable your vehicle headlights, the engine of your vehicle needs to be running for this to work.":
+     "开启或关闭载具大灯，引擎必须先开启",
+    "Kick Passengers":
+     "踢出乘客",
+    "This will remove all passengers from your personal vehicle.":
+     "此选项会让载具内所有乘客强制离开载具",
+    "Lock Vehicle Doors":
+     "锁定载具门",
+    "This will lock all your vehicle doors for all players. Anyone already inside will always be able to leave the vehicle, even if the doors are locked.":
+     "此选项会锁上所有的门，已在载具内的玩家依然可以下车",
+    "Unlock Vehicle Doors":
+     "解锁载具门",
+    "This will unlock all your vehicle doors for all players.":
+     "此选项会解锁所有的门",
+    "Sound Horn":
+     "鸣笛",
+    "Sounds the horn of the vehicle.":
+     "按下载具的喇叭",
+    "Toggle Alarm Sound":
+     "Toggle Alarm Sound",
+    "Toggles the vehicle alarm sound on or off. This does not set an alarm. It only toggles the current sounding status of the alarm.":
+     "Toggles the vehicle alarm sound on or off. This does not set an alarm. It only toggles the current sounding status of the alarm.",
+    "Add Blip For Personal Vehicle":
+     "Add Blip For Personal Vehicle",
+    "Enables or disables the blip that gets added when you mark a vehicle as your personal vehicle.":
+     "Enables or disables the blip that gets added when you mark a vehicle as your personal vehicle.",
+    "Exclusive Driver":
+     "Exclusive Driver",
+    "If enabled, then you will be the only one that can enter the drivers seat. Other players will not be able to drive the car. They can still be passengers.":
+     "If enabled, then you will be the only one that can enter the drivers seat. Other players will not be able to drive the car. They can still be passengers.",
+    "Spawn Ped":
+     "刷出人物",
+    "Addon Peds":
+     "添加式人物",
+    "Spawn a ped from the addon peds list.":
+     "刷出在添加式人物列表中的自定义人物",
+    "Spawn By Name":
+     "按名称刷出",
+    "Spawn a ped by entering it's name manually.":
+     "通过手动输入人物名刷出人物",
+    "Main Peds":
+     "主角",
+    "Select a new ped from the main player-peds list.":
+     "刷出 GTAV 与 GTAOL 游戏主角色",
+    "Animals":
+     "动物",
+    "This is disabled by the server owner, probably for a good reason because animals quite often crash the game.":
+     "此项被服主禁用，大概因为动物常会使游戏崩溃",
+    "Male Peds":
+     "男性角色",
+    "Select a male ped.":
+     "选择刷出一名男性角色",
+    "Female Peds":
+     "女性角色",
+    "Select a female ped.":
+     "选择刷出一名女性角色",
+    "Other Peds":
+     "其他角色",
+    "Select a ped.":
+     "选择刷出一名特殊配角",
+    "Saved Ped":
+     "已保存角色",
+    "renameme":
+     "重命名",
+    "Spawn Saved Ped":
+     "刷出已保存人物",
+    "Spawn this saved ped.":
+     "刷出此保存项",
+    "Clone Saved Ped":
+     "复制已保存人物",
+    "Clone this saved ped.":
+     "为当前保存项创建副本",
+    "Rename Saved Ped":
+     "重命名已保存人物",
+    "Rename this saved ped.":
+     "为当前保存项换个名称",
+    "~r~Replace Saved Ped":
+     "~r~替换已保存人物",
+    "Repalce this saved ped with your current ped. Note this can not be undone!":
+     "用当前人物替换此保存项。注意操作不可撤销！",
+    "~r~Delete Saved Ped":
+     "~r~删除已保存人物",
+    "Delete this saved ped. Note this can not be undone!":
+     "删除此保存项。注意操作不可撤销！",
+    "Ped Customization":
+     "人物打扮",
+    "Modify your ped's appearance.":
+     "修改当前人物的外貌",
+    "Save Ped":
+     "保存人物",
+    "Save your current ped. Note for the MP Male/Female peds this won't save most of their customization, just because that's impossible. Create those characters in the MP Character creator instead.":
+     "保存当前人物。不要用此项保存线上模式人物。 just because that's impossible. Create those characters in the MP Character creator instead.",
+    "Saved Peds":
+     "已保存人物",
+    "Edit, rename, clone, spawn or delete saved peds.":
+     "修改、重命名、复制、刷出或删除已保存的人物",
+    "Spawn Peds":
+     "刷出人物",
+    "Change ped model by selecting one from the list or by selecting an addon ped from the list.":
+     "更改当前使用的人物角色皮肤",
+    "Walking Style":
+     "步行风格",
+    "Change the walking style of your current ped. You need to re-apply this each time you change player model or load a saved ped.":
+     "更改当前人物的行走风格。更换人物后需重新设置",
+    "Illuminated Clothing Style":
+     "自发光衣物风格",
+    "Set the style of the animation used on your player's illuminated clothing items.":
+     "选择自发光衣物的动画样式",
+    "Create Character":
+     "创建角色",
+    "Create A New Character":
+     "创建一名新角色",
+    "Character Inheritance":
+     "Character Inheritance",
+    "Character inheritance options.":
+     "Character inheritance options.",
+    "Character Appearance":
+     "Character Appearance",
+    "Character appearance options.":
+     "Character appearance options.",
+    "Character Face Shape Options":
+     "Character Face Shape Options",
+    "Character face shape options.":
+     "Character face shape options.",
+    "Character Tattoo Options":
+     "Character Tattoo Options",
+    "Character tattoo options.":
+     "Character tattoo options.",
+    "Character Clothes":
+     "角色衣物",
+    "Character clothes.":
+     "角色身着的衣物",
+    "Character Props":
+     "角色道具",
+    "Character props.":
+     "可掉落的角色道具",
+    "Facial Expression":
+     "面部表情",
+    "Set a facial expression that will be used whenever your ped is idling.":
+     "为您的角色设置一个空闲状态时的面部表情",
+    "Save Character":
+     "保存角色",
+    "Save your character.":
+     "保存您打造的角色",
+    "Exit Without Saving":
+     "不保存退出",
+    "Are you sure? All unsaved work will be lost.":
+     "您确定么？所有未保存项都会丢失",
+    "Character Inheritance Options":
+     "Character Inheritance Options",
+    "Father":
+     "Father",
+    "Select a father.":
+     "Select a father.",
+    "Mother":
+     "Mother",
+    "Select a mother.":
+     "Select a mother.",
+    "Head Shape Mix":
+     "Head Shape Mix",
+    "Select how much of your head shape should be inherited from your father or mother. All the way on the left is your dad, all the way on the right is your mom.":
+     "Select how much of your head shape should be inherited from your father or mother. All the way on the left is your dad, all the way on the right is your mom.",
+    "Body Skin Mix":
+     "Body Skin Mix",
+    "Select how much of your body skin tone should be inherited from your father or mother. All the way on the left is your dad, all the way on the right is your mom.":
+     "Select how much of your body skin tone should be inherited from your father or mother. All the way on the left is your dad, all the way on the right is your mom.",
+    "Nose Width":
+     "Nose Width",
+    "Set the Nose Width face feature value.":
+     "Set the Nose Width face feature value.",
+    "Noes Peak Height":
+     "Noes Peak Height",
+    "Set the Noes Peak Height face feature value.":
+     "Set the Noes Peak Height face feature value.",
+    "Nose Peak Length":
+     "Nose Peak Length",
+    "Set the Nose Peak Length face feature value.":
+     "Set the Nose Peak Length face feature value.",
+    "Nose Bone Height":
+     "Nose Bone Height",
+    "Set the Nose Bone Height face feature value.":
+     "Set the Nose Bone Height face feature value.",
+    "Nose Peak Lowering":
+     "Nose Peak Lowering",
+    "Set the Nose Peak Lowering face feature value.":
+     "Set the Nose Peak Lowering face feature value.",
+    "Nose Bone Twist":
+     "Nose Bone Twist",
+    "Set the Nose Bone Twist face feature value.":
+     "Set the Nose Bone Twist face feature value.",
+    "Eyebrows Height":
+     "Eyebrows Height",
+    "Set the Eyebrows Height face feature value.":
+     "Set the Eyebrows Height face feature value.",
+    "Eyebrows Depth":
+     "Eyebrows Depth",
+    "Set the Eyebrows Depth face feature value.":
+     "Set the Eyebrows Depth face feature value.",
+    "Cheekbones Height":
+     "Cheekbones Height",
+    "Set the Cheekbones Height face feature value.":
+     "Set the Cheekbones Height face feature value.",
+    "Cheekbones Width":
+     "Cheekbones Width",
+    "Set the Cheekbones Width face feature value.":
+     "Set the Cheekbones Width face feature value.",
+    "Cheeks Width":
+     "Cheeks Width",
+    "Set the Cheeks Width face feature value.":
+     "Set the Cheeks Width face feature value.",
+    "Eyes Opening":
+     "Eyes Opening",
+    "Set the Eyes Opening face feature value.":
+     "Set the Eyes Opening face feature value.",
+    "Lips Thickness":
+     "Lips Thickness",
+    "Set the Lips Thickness face feature value.":
+     "Set the Lips Thickness face feature value.",
+    "Jaw Bone Width":
+     "Jaw Bone Width",
+    "Set the Jaw Bone Width face feature value.":
+     "Set the Jaw Bone Width face feature value.",
+    "Jaw Bone Depth/Length":
+     "Jaw Bone Depth/Length",
+    "Set the Jaw Bone Depth/Length face feature value.":
+     "Set the Jaw Bone Depth/Length face feature value.",
+    "Chin Height":
+     "Chin Height",
+    "Set the Chin Height face feature value.":
+     "Set the Chin Height face feature value.",
+    "Chin Depth/Length":
+     "Chin Depth/Length",
+    "Set the Chin Depth/Length face feature value.":
+     "Set the Chin Depth/Length face feature value.",
+    "Chin Width":
+     "Chin Width",
+    "Set the Chin Width face feature value.":
+     "Set the Chin Width face feature value.",
+    "Chin Hole Size":
+     "Chin Hole Size",
+    "Set the Chin Hole Size face feature value.":
+     "Set the Chin Hole Size face feature value.",
+    "Neck Thickness":
+     "Neck Thickness",
+    "Set the Neck Thickness face feature value.":
+     "Set the Neck Thickness face feature value.",
+    "Manage MP Character":
+     "Manage MP Character",
+    "Spawn Saved Character":
+     "Spawn Saved Character",
+    "Spawns the selected saved character.":
+     "Spawns the selected saved character.",
+    "Edit Saved Character":
+     "Edit Saved Character",
+    "This allows you to edit everything about your saved character. The changes will be saved to this character's save file entry once you hit the save button.":
+     "This allows you to edit everything about your saved character. The changes will be saved to this character's save file entry once you hit the save button.",
+    "Clone Saved Character":
+     "Clone Saved Character",
+    "This will make a clone of your saved character. It will ask you to provide a name for that character. If that name is already taken the action will be canceled.":
+     "This will make a clone of your saved character. It will ask you to provide a name for that character. If that name is already taken the action will be canceled.",
+    "Set As Default Character":
+     "Set As Default Character",
+    "If you set this character as your default character, and you enable the 'Respawn As Default MP Character' option in the Misc Settings menu, then you will be set as this character whenever you (re)spawn.":
+     "If you set this character as your default character, and you enable the 'Respawn As Default MP Character' option in the Misc Settings menu, then you will be set as this character whenever you (re)spawn.",
+    "Rename Saved Character":
+     "Rename Saved Character",
+    "You can rename this saved character. If the name is already taken then the action will be canceled.":
+     "You can rename this saved character. If the name is already taken then the action will be canceled.",
+    "Delete Saved Character":
+     "Delete Saved Character",
+    "Deletes the selected saved character. This can not be undone!":
+     "Deletes the selected saved character. This can not be undone!",
+    "Create Male Character":
+     "创建男性角色",
+    "Create a new male character.":
+     "创建一名新的男性线上模式角色",
+    "Create Female Character":
+     "创建女性角色",
+    "Create a new female character.":
+     "创建一名新的女性线上模式角色",
+    "Saved Characters":
+     "已保存角色",
+    "Spawn, edit or delete your existing saved multiplayer characters.":
+     "刷出、修改或删除您保存的线上模式角色",
+    "Freeze/Unfreeze Time":
+     "冻结/解冻时间",
+    "Enable or disable time freezing.":
+     "开启或关闭时间停止",
+    "Early Morning":
+     "清露",
+    "Set the time to 06:00.":
+     "设定时间到 06:00.",
+    "Morning":
+     "朝晨",
+    "Set the time to 09:00.":
+     "设定时间到 09:00.",
+    "Noon":
+     "晌午",
+    "Set the time to 12:00.":
+     "设定时间到 12:00.",
+    "Early Afternoon":
+     "午后",
+    "Set the time to 15:00.":
+     "设定时间到 15:00.",
+    "Afternoon":
+     "黄昏",
+    "Set the time to 18:00.":
+     "设定时间到 18:00.",
+    "Evening":
+     "寂夜",
+    "Set the time to 21:00.":
+     "设定时间到 21:00.",
+    "Midnight":
+     "子夜",
+    "Set the time to 00:00.":
+     "设定时间到 00:00.",
+    "Night":
+     "越西",
+    "Set the time to 03:00.":
+     "设定时间到 03:00.",
+    "Set Custom Hour":
+     "设定到某时",
+    "Set Custom Minute":
+     "设定到某分",
+    "Toggle Dynamic Weather":
+     "切换动态天气",
+    "Enable or disable dynamic weather changes.":
+     "开启或关闭天气的动态变化",
+    "Toggle Blackout":
+     "切换大停电",
+    "This disables or enables all lights across the map.":
+     "开启或关闭地图上所有的灯光",
+    "Enable Snow Effects":
+     "开启大雪覆盖",
+    "This will force snow to appear on the ground and enable snow particle effects for peds and vehicles. Combine with X-MAS or Light Snow weather for best results.":
+     "强制开启雪天地图和雪天特效，和圣诞或小雪天气混用更佳",
+    "Extra Sunny":
+     "烈日当空",
+    "Set the weather to ~y~extra sunny~s~!":
+     "设置天气到 ~y~烈日当空~s~！",
+    "Clear":
+     "晴空万里",
+    "Set the weather to ~y~clear~s~!":
+     "设置天气到 ~y~晴天~s~！",
+    "Neutral":
+     "温暖宜人",
+    "Set the weather to ~y~neutral~s~!":
+     "设置天气到 ~y~普通天气~s~！",
+    "Smog":
+     "尘霾雾断",
+    "Set the weather to ~y~smog~s~!":
+     "设置天气到 ~y~雾霾天~s~！",
+    "Foggy":
+     "白雾浓浓",
+    "Set the weather to ~y~foggy~s~!":
+     "设置天气到 ~y~雾天~s~！",
+    "Cloudy":
+     "云卷云舒",
+    "Set the weather to ~y~clouds~s~!":
+     "设置天气到 ~y~多云天~s~！",
+    "Overcast":
+     "阴云沉沉",
+    "Set the weather to ~y~overcast~s~!":
+     "设置天气到 ~y~阴天~s~！",
+    "Clearing":
+     "凯风速晴",
+    "Set the weather to ~y~clearing~s~!":
+     "设置天气到 ~y~雨过天晴~s~！",
+    "Rainy":
+     "沙沙落雨",
+    "Set the weather to ~y~rain~s~!":
+     "设置天气到 ~y~下雨天~s~！",
+    "Thunder":
+     "雷雨乱作",
+    "Set the weather to ~y~thunder~s~!":
+     "设置天气到 ~y~雷雨天~s~！",
+    "Blizzard":
+     "狂风暴雪",
+    "Set the weather to ~y~blizzard~s~!":
+     "设置天气到 ~y~暴风雪~s~！",
+    "Snow":
+     "压城中雪",
+    "Set the weather to ~y~snow~s~!":
+     "设置天气到 ~y~中雪天~s~！",
+    "Light Snow":
+     "咪咪小雪",
+    "Set the weather to ~y~light snow~s~!":
+     "设置天气到 ~y~小雪天~s~！",
+    "X-MAS Snow":
+     "圣诞节",
+    "Set the weather to ~y~x-mas~s~!":
+     "设置天气到 ~y~圣诞节~s~！",
+    "Halloween":
+     "万圣节",
+    "Set the weather to ~y~halloween~s~!":
+     "设置天气到 ~y~万圣节~s~！",
+    "Randomize Clouds":
+     "随机云彩",
+    "Add random clouds to the sky!":
+     "向空中随机播撒一些云彩",
+    "Remove All Clouds":
+     "去除云彩",
+    "Remove all clouds from the sky!":
+     "吸走空中的所有云彩！",
+    "Parachute Options":
+     "降落伞选项",
+    "Toggle Primary Parachute":
+     "切换主降落伞包",
+    "Equip or remove the primary parachute":
+     "装备或卸下主要降落伞包",
+    "Enable Reserve Parachute":
+     "启用副降落伞包",
+    "Enables the reserve parachute. Only works if you enabled the primary parachute first. Reserve parachute can not be removed from the player once it's activated.":
+     "启用副降落伞包，需先装备主降落伞包。副降落伞包在开启后不可移除",
+    "Auto Equip Parachutes":
+     "自动装备降落伞包",
+    "Automatically equip a parachute and reserve parachute when entering planes/helicopters.":
+     "在您进入飞行载具后自动装备主副降落伞包",
+    "Unlimited Parachutes":
+     "无限降落伞包",
+    "Enable unlimited parachutes and reserve parachutes.":
+     "提供无限的降落伞包供您使用",
+    "Smoke Trail Color":
+     "烟带颜色",
+    "Choose a smoke trail color, then press select to change it. Changing colors takes 4 seconds, you can not use your smoke while the color is being changed.":
+     "选择一种烟雾颜色并选定来进行更改。更换需等待4秒钟",
+    "Primary Chute Style":
+     "Primary Chute Style",
+    "Primary chute: Rainbow colored parachute.":
+     "Primary chute: Rainbow colored parachute.",
+    "Reserve Chute Style":
+     "副降落伞风格",
+    "Reserve chute: Rainbow colored parachute.":
+     "副降落伞：彩虹色样式",
+    "Weapons":
+     "武器",
+    "Handguns":
+     "手枪",
+    "AP Pistol":
+     "穿甲手枪",
+    "Open the options for ~y~AP Pistol~s~.":
+     "打开 ~y~穿甲手枪~s~ 的选项",
+    "Combat Pistol":
+     "战斗手枪",
+    "Open the options for ~y~Combat Pistol~s~.":
+     "Open the options for ~y~Combat Pistol~s~.",
+    "Double-Action Revolver":
+     "Double-Action Revolver",
+    "Open the options for ~y~Double-Action Revolver~s~.":
+     "Open the options for ~y~Double-Action Revolver~s~.",
+    "Flare Gun":
+     "信号枪",
+    "Open the options for ~y~Flare Gun~s~.":
+     "Open the options for ~y~Flare Gun~s~.",
+    "Heavy Pistol":
+     "重型手枪",
+    "Open the options for ~y~Heavy Pistol~s~.":
+     "Open the options for ~y~Heavy Pistol~s~.",
+    "Marksman Pistol":
+     "射手手枪",
+    "Open the options for ~y~Marksman Pistol~s~.":
+     "Open the options for ~y~Marksman Pistol~s~.",
+    "Pistol":
+     "手枪",
+    "Open the options for ~y~Pistol~s~.":
+     "Open the options for ~y~Pistol~s~.",
+    "Pistol .50":
+     "Pistol .50",
+    "Open the options for ~y~Pistol .50~s~.":
+     "Open the options for ~y~Pistol .50~s~.",
+    "Pistol Mk II":
+     "Pistol Mk II",
+    "Open the options for ~y~Pistol Mk II~s~.":
+     "Open the options for ~y~Pistol Mk II~s~.",
+    "Heavy Revolver":
+     "Heavy Revolver",
+    "Open the options for ~y~Heavy Revolver~s~.":
+     "Open the options for ~y~Heavy Revolver~s~.",
+    "Heavy Revolver Mk II":
+     "Heavy Revolver Mk II",
+    "Open the options for ~y~Heavy Revolver Mk II~s~.":
+     "Open the options for ~y~Heavy Revolver Mk II~s~.",
+    "SNS Pistol":
+     "SNS Pistol",
+    "Open the options for ~y~SNS Pistol~s~.":
+     "Open the options for ~y~SNS Pistol~s~.",
+    "SNS Pistol Mk II":
+     "SNS Pistol Mk II",
+    "Open the options for ~y~SNS Pistol Mk II~s~.":
+     "Open the options for ~y~SNS Pistol Mk II~s~.",
+    "Stun Gun":
+     "Stun Gun",
+    "Open the options for ~y~Stun Gun~s~.":
+     "Open the options for ~y~Stun Gun~s~.",
+    "Vintage Pistol":
+     "Vintage Pistol",
+    "Open the options for ~y~Vintage Pistol~s~.":
+     "Open the options for ~y~Vintage Pistol~s~.",
+    "Up-n-Atomizer":
+     "Up-n-Atomizer",
+    "Open the options for ~y~Up-n-Atomizer~s~.":
+     "Open the options for ~y~Up-n-Atomizer~s~.",
+    "Ceramic Pistol":
+     "Ceramic Pistol",
+    "Open the options for ~y~Ceramic Pistol~s~.":
+     "Open the options for ~y~Ceramic Pistol~s~.",
+    "Navy Revolver":
+     "Navy Revolver",
+    "Open the options for ~y~Navy Revolver~s~.":
+     "Open the options for ~y~Navy Revolver~s~.",
+    "Perico Pistol":
+     "Perico Pistol",
+    "Open the options for ~y~Perico Pistol~s~.":
+     "Open the options for ~y~Perico Pistol~s~.",
+    "Assault Rifles":
+     "Assault Rifles",
+    "Advanced Rifle":
+     "Advanced Rifle",
+    "Open the options for ~y~Advanced Rifle~s~.":
+     "Open the options for ~y~Advanced Rifle~s~.",
+    "Assault Rifle":
+     "Assault Rifle",
+    "Open the options for ~y~Assault Rifle~s~.":
+     "Open the options for ~y~Assault Rifle~s~.",
+    "Assault Rifle Mk II":
+     "Assault Rifle Mk II",
+    "Open the options for ~y~Assault Rifle Mk II~s~.":
+     "Open the options for ~y~Assault Rifle Mk II~s~.",
+    "Bullpup Rifle":
+     "Bullpup Rifle",
+    "Open the options for ~y~Bullpup Rifle~s~.":
+     "Open the options for ~y~Bullpup Rifle~s~.",
+    "Bullpup Rifle Mk II":
+     "Bullpup Rifle Mk II",
+    "Open the options for ~y~Bullpup Rifle Mk II~s~.":
+     "Open the options for ~y~Bullpup Rifle Mk II~s~.",
+    "Carbine Rifle":
+     "Carbine Rifle",
+    "Open the options for ~y~Carbine Rifle~s~.":
+     "Open the options for ~y~Carbine Rifle~s~.",
+    "Carbine Rifle Mk II":
+     "Carbine Rifle Mk II",
+    "Open the options for ~y~Carbine Rifle Mk II~s~.":
+     "Open the options for ~y~Carbine Rifle Mk II~s~.",
+    "Compact Rifle":
+     "Compact Rifle",
+    "Open the options for ~y~Compact Rifle~s~.":
+     "Open the options for ~y~Compact Rifle~s~.",
+    "Special Carbine":
+     "Special Carbine",
+    "Open the options for ~y~Special Carbine~s~.":
+     "Open the options for ~y~Special Carbine~s~.",
+    "Special Carbine Mk II":
+     "Special Carbine Mk II",
+    "Open the options for ~y~Special Carbine Mk II~s~.":
+     "Open the options for ~y~Special Carbine Mk II~s~.",
+    "Military Rifle":
+     "Military Rifle",
+    "Open the options for ~y~Military Rifle~s~.":
+     "Open the options for ~y~Military Rifle~s~.",
+    "Shotguns":
+     "Shotguns",
+    "Assault Shotgun":
+     "Assault Shotgun",
+    "Open the options for ~y~Assault Shotgun~s~.":
+     "Open the options for ~y~Assault Shotgun~s~.",
+    "Sweeper Shotgun":
+     "Sweeper Shotgun",
+    "Open the options for ~y~Sweeper Shotgun~s~.":
+     "Open the options for ~y~Sweeper Shotgun~s~.",
+    "Bullpup Shotgun":
+     "Bullpup Shotgun",
+    "Open the options for ~y~Bullpup Shotgun~s~.":
+     "Open the options for ~y~Bullpup Shotgun~s~.",
+    "Double Barrel Shotgun":
+     "Double Barrel Shotgun",
+    "Open the options for ~y~Double Barrel Shotgun~s~.":
+     "Open the options for ~y~Double Barrel Shotgun~s~.",
+    "Heavy Shotgun":
+     "Heavy Shotgun",
+    "Open the options for ~y~Heavy Shotgun~s~.":
+     "Open the options for ~y~Heavy Shotgun~s~.",
+    "Pump Shotgun":
+     "Pump Shotgun",
+    "Open the options for ~y~Pump Shotgun~s~.":
+     "Open the options for ~y~Pump Shotgun~s~.",
+    "Pump Shotgun Mk II":
+     "Pump Shotgun Mk II",
+    "Open the options for ~y~Pump Shotgun Mk II~s~.":
+     "Open the options for ~y~Pump Shotgun Mk II~s~.",
+    "Sawed-Off Shotgun":
+     "Sawed-Off Shotgun",
+    "Open the options for ~y~Sawed-Off Shotgun~s~.":
+     "Open the options for ~y~Sawed-Off Shotgun~s~.",
+    "Combat Shotgun":
+     "Combat Shotgun",
+    "Open the options for ~y~Combat Shotgun~s~.":
+     "Open the options for ~y~Combat Shotgun~s~.",
+    "Sub-/Light Machine Guns":
+     "Sub-/Light Machine Guns",
+    "Assault SMG":
+     "Assault SMG",
+    "Open the options for ~y~Assault SMG~s~.":
+     "Open the options for ~y~Assault SMG~s~.",
+    "Combat MG":
+     "Combat MG",
+    "Open the options for ~y~Combat MG~s~.":
+     "Open the options for ~y~Combat MG~s~.",
+    "Combat MG Mk II":
+     "Combat MG Mk II",
+    "Open the options for ~y~Combat MG Mk II~s~.":
+     "Open the options for ~y~Combat MG Mk II~s~.",
+    "Combat PDW":
+     "Combat PDW",
+    "Open the options for ~y~Combat PDW~s~.":
+     "Open the options for ~y~Combat PDW~s~.",
+    "Gusenberg Sweeper":
+     "Gusenberg Sweeper",
+    "Open the options for ~y~Gusenberg Sweeper~s~.":
+     "Open the options for ~y~Gusenberg Sweeper~s~.",
+    "Machine Pistol":
+     "Machine Pistol",
+    "Open the options for ~y~Machine Pistol~s~.":
+     "Open the options for ~y~Machine Pistol~s~.",
+    "MG":
+     "MG",
+    "Open the options for ~y~MG~s~.":
+     "Open the options for ~y~MG~s~.",
+    "Micro SMG":
+     "Micro SMG",
+    "Open the options for ~y~Micro SMG~s~.":
+     "Open the options for ~y~Micro SMG~s~.",
+    "Mini SMG":
+     "Mini SMG",
+    "Open the options for ~y~Mini SMG~s~.":
+     "Open the options for ~y~Mini SMG~s~.",
+    "SMG":
+     "SMG",
+    "Open the options for ~y~SMG~s~.":
+     "Open the options for ~y~SMG~s~.",
+    "SMG Mk II":
+     "SMG Mk II",
+    "Open the options for ~y~SMG Mk II~s~.":
+     "Open the options for ~y~SMG Mk II~s~.",
+    "Unholy Hellbringer":
+     "Unholy Hellbringer",
+    "Open the options for ~y~Unholy Hellbringer~s~.":
+     "Open the options for ~y~Unholy Hellbringer~s~.",
+    "Throwables":
+     "Throwables",
+    "Ball":
+     "Ball",
+    "Open the options for ~y~Ball~s~.":
+     "Open the options for ~y~Ball~s~.",
+    "BZ Gas":
+     "BZ Gas",
+    "Open the options for ~y~BZ Gas~s~.":
+     "Open the options for ~y~BZ Gas~s~.",
+    "Fire Extinguisher":
+     "Fire Extinguisher",
+    "Open the options for ~y~Fire Extinguisher~s~.":
+     "Open the options for ~y~Fire Extinguisher~s~.",
+    "Flare":
+     "Flare",
+    "Open the options for ~y~Flare~s~.":
+     "Open the options for ~y~Flare~s~.",
+    "Grenade":
+     "Grenade",
+    "Open the options for ~y~Grenade~s~.":
+     "Open the options for ~y~Grenade~s~.",
+    "Molotov":
+     "Molotov",
+    "Open the options for ~y~Molotov~s~.":
+     "Open the options for ~y~Molotov~s~.",
+    "Jerry Can":
+     "Jerry Can",
+    "Open the options for ~y~Jerry Can~s~.":
+     "Open the options for ~y~Jerry Can~s~.",
+    "Pipe Bomb":
+     "Pipe Bomb",
+    "Open the options for ~y~Pipe Bomb~s~.":
+     "Open the options for ~y~Pipe Bomb~s~.",
+    "Proximity Mine":
+     "Proximity Mine",
+    "Open the options for ~y~Proximity Mine~s~.":
+     "Open the options for ~y~Proximity Mine~s~.",
+    "Tear Gas":
+     "Tear Gas",
+    "Open the options for ~y~Tear Gas~s~.":
+     "Open the options for ~y~Tear Gas~s~.",
+    "Snowball":
+     "Snowball",
+    "Open the options for ~y~Snowball~s~.":
+     "Open the options for ~y~Snowball~s~.",
+    "Sticky Bomb":
+     "Sticky Bomb",
+    "Open the options for ~y~Sticky Bomb~s~.":
+     "Open the options for ~y~Sticky Bomb~s~.",
+    "Melee":
+     "Melee",
+    "Baseball Bat":
+     "Baseball Bat",
+    "Open the options for ~y~Baseball Bat~s~.":
+     "Open the options for ~y~Baseball Bat~s~.",
+    "Battle Axe":
+     "Battle Axe",
+    "Open the options for ~y~Battle Axe~s~.":
+     "Open the options for ~y~Battle Axe~s~.",
+    "Bottle":
+     "Bottle",
+    "Open the options for ~y~Bottle~s~.":
+     "Open the options for ~y~Bottle~s~.",
+    "Crowbar":
+     "Crowbar",
+    "Open the options for ~y~Crowbar~s~.":
+     "Open the options for ~y~Crowbar~s~.",
+    "Antique Cavalry Dagger":
+     "Antique Cavalry Dagger",
+    "Open the options for ~y~Antique Cavalry Dagger~s~.":
+     "Open the options for ~y~Antique Cavalry Dagger~s~.",
+    "Flashlight":
+     "Flashlight",
+    "Open the options for ~y~Flashlight~s~.":
+     "Open the options for ~y~Flashlight~s~.",
+    "Golf Club":
+     "Golf Club",
+    "Open the options for ~y~Golf Club~s~.":
+     "Open the options for ~y~Golf Club~s~.",
+    "Hammer":
+     "Hammer",
+    "Open the options for ~y~Hammer~s~.":
+     "Open the options for ~y~Hammer~s~.",
+    "Hatchet":
+     "Hatchet",
+    "Open the options for ~y~Hatchet~s~.":
+     "Open the options for ~y~Hatchet~s~.",
+    "Knife":
+     "Knife",
+    "Open the options for ~y~Knife~s~.":
+     "Open the options for ~y~Knife~s~.",
+    "Knuckle Duster":
+     "Knuckle Duster",
+    "Open the options for ~y~Knuckle Duster~s~.":
+     "Open the options for ~y~Knuckle Duster~s~.",
+    "Machete":
+     "Machete",
+    "Open the options for ~y~Machete~s~.":
+     "Open the options for ~y~Machete~s~.",
+    "Nightstick":
+     "Nightstick",
+    "Open the options for ~y~Nightstick~s~.":
+     "Open the options for ~y~Nightstick~s~.",
+    "Pool Cue":
+     "Pool Cue",
+    "Open the options for ~y~Pool Cue~s~.":
+     "Open the options for ~y~Pool Cue~s~.",
+    "Switchblade":
+     "Switchblade",
+    "Open the options for ~y~Switchblade~s~.":
+     "Open the options for ~y~Switchblade~s~.",
+    "Pipe Wrench":
+     "Pipe Wrench",
+    "Open the options for ~y~Pipe Wrench~s~.":
+     "Open the options for ~y~Pipe Wrench~s~.",
+    "Stone Hatchet":
+     "Stone Hatchet",
+    "Open the options for ~y~Stone Hatchet~s~.":
+     "Open the options for ~y~Stone Hatchet~s~.",
+    "Heavy Weapons":
+     "Heavy Weapons",
+    "Compact Grenade Launcher":
+     "Compact Grenade Launcher",
+    "Open the options for ~y~Compact Grenade Launcher~s~.":
+     "Open the options for ~y~Compact Grenade Launcher~s~.",
+    "Firework Launcher":
+     "Firework Launcher",
+    "Open the options for ~y~Firework Launcher~s~.":
+     "Open the options for ~y~Firework Launcher~s~.",
+    "Grenade Launcher":
+     "Grenade Launcher",
+    "Open the options for ~y~Grenade Launcher~s~.":
+     "Open the options for ~y~Grenade Launcher~s~.",
+    "Homing Launcher":
+     "Homing Launcher",
+    "Open the options for ~y~Homing Launcher~s~.":
+     "Open the options for ~y~Homing Launcher~s~.",
+    "Minigun":
+     "Minigun",
+    "Open the options for ~y~Minigun~s~.":
+     "Open the options for ~y~Minigun~s~.",
+    "Railgun":
+     "Railgun",
+    "Open the options for ~y~Railgun~s~.":
+     "Open the options for ~y~Railgun~s~.",
+    "RPG":
+     "RPG",
+    "Open the options for ~y~RPG~s~.":
+     "Open the options for ~y~RPG~s~.",
+    "Widowmaker":
+     "Widowmaker",
+    "Open the options for ~y~Widowmaker~s~.":
+     "Open the options for ~y~Widowmaker~s~.",
+    "Sniper Rifles":
+     "Sniper Rifles",
+    "Heavy Sniper":
+     "Heavy Sniper",
+    "Open the options for ~y~Heavy Sniper~s~.":
+     "Open the options for ~y~Heavy Sniper~s~.",
+    "Heavy Sniper Mk II":
+     "Heavy Sniper Mk II",
+    "Open the options for ~y~Heavy Sniper Mk II~s~.":
+     "Open the options for ~y~Heavy Sniper Mk II~s~.",
+    "Marksman Rifle":
+     "Marksman Rifle",
+    "Open the options for ~y~Marksman Rifle~s~.":
+     "Open the options for ~y~Marksman Rifle~s~.",
+    "Marksman Rifle Mk II":
+     "Marksman Rifle Mk II",
+    "Open the options for ~y~Marksman Rifle Mk II~s~.":
+     "Open the options for ~y~Marksman Rifle Mk II~s~.",
+    "Musket":
+     "Musket",
+    "Open the options for ~y~Musket~s~.":
+     "Open the options for ~y~Musket~s~.",
+    "Sniper Rifle":
+     "Sniper Rifle",
+    "Open the options for ~y~Sniper Rifle~s~.":
+     "Open the options for ~y~Sniper Rifle~s~.",
+    "Get All Weapons":
+     "Get All Weapons",
+    "Get all weapons.":
+     "Get all weapons.",
+    "Remove All Weapons":
+     "Remove All Weapons",
+    "Removes all weapons in your inventory.":
+     "Removes all weapons in your inventory.",
+    "Unlimited Ammo":
+     "Unlimited Ammo",
+    "Unlimited ammonition supply.":
+     "Unlimited ammonition supply.",
+    "No Reload":
+     "No Reload",
+    "Never reload.":
+     "Never reload.",
+    "Set All Ammo Count":
+     "Set All Ammo Count",
+    "Set the amount of ammo in all your weapons.":
+     "Set the amount of ammo in all your weapons.",
+    "Refill All Ammo":
+     "Refill All Ammo",
+    "Give all your weapons max ammo.":
+     "Give all your weapons max ammo.",
+    "Spawn Weapon By Name":
+     "Spawn Weapon By Name",
+    "Enter a weapon mode name to spawn.":
+     "Enter a weapon mode name to spawn.",
+    "Addon Weapons":
+     "Addon Weapons",
+    "Equip / remove addon weapons available on this server.":
+     "Equip / remove addon weapons available on this server.",
+    "All parachute related options can be changed here.":
+     "All parachute related options can be changed here.",
+    "~h~                   ↓ Weapon Categories ↓":
+     "~h~                   ↓ 武器类别 ↓",
+    "Manage Loadout":
+     "Manage Loadout",
+    "Manage saved weapon loadout":
+     "Manage saved weapon loadout",
+    "Equip Loadout":
+     "Equip Loadout",
+    "Spawn this saved weapons loadout. This will remove all your current weapons and replace them with this saved slot.":
+     "Spawn this saved weapons loadout. This will remove all your current weapons and replace them with this saved slot.",
+    "Rename Loadout":
+     "Rename Loadout",
+    "Rename this saved loadout.":
+     "Rename this saved loadout.",
+    "Clone Loadout":
+     "Clone Loadout",
+    "Clones this saved loadout to a new slot.":
+     "Clones this saved loadout to a new slot.",
+    "Set As Default Loadout":
+     "Set As Default Loadout",
+    "Set this loadout to be your default loadout for whenever you (re)spawn. This will override the 'Restore Weapons' option inside the Misc Settings menu. You can toggle this option in the main Weapon Loadouts menu.":
+     "Set this loadout to be your default loadout for whenever you (re)spawn. This will override the 'Restore Weapons' option inside the Misc Settings menu. You can toggle this option in the main Weapon Loadouts menu.",
+    "~r~Replace Loadout":
+     "~r~Replace Loadout",
+    "~r~This replaces this saved slot with the weapons that you currently have in your inventory. This action can not be undone!":
+     "~r~This replaces this saved slot with the weapons that you currently have in your inventory. This action can not be undone!",
+    "~r~Delete Loadout":
+     "~r~Delete Loadout",
+    "~r~This will delete this saved loadout. This action can not be undone!":
+     "~r~This will delete this saved loadout. This action can not be undone!",
+    "weapon loadouts management":
+     "weapon loadouts management",
+    "Save Loadout":
+     "Save Loadout",
+    "Save your current weapons into a new loadout slot.":
+     "Save your current weapons into a new loadout slot.",
+    "Manage Loadouts":
+     "Manage Loadouts",
+    "Manage saved weapon loadouts.":
+     "Manage saved weapon loadouts.",
+    "Restore Default Loadout On Respawn":
+     "Restore Default Loadout On Respawn",
+    "If you've set a loadout as default loadout, then your loadout will be equipped automatically whenever you (re)spawn.":
+     "If you've set a loadout as default loadout, then your loadout will be equipped automatically whenever you (re)spawn.",
+    "Enable Voice Chat":
+     "Enable Voice Chat",
+    "Enable or disable voice chat.":
+     "Enable or disable voice chat.",
+    "Show Current Speaker":
+     "Show Current Speaker",
+    "Shows who is currently talking.":
+     "Shows who is currently talking.",
+    "Voice Chat Proximity":
+     "Voice Chat Proximity",
+    "Set the voice chat receiving proximity in meters.":
+     "Set the voice chat receiving proximity in meters.",
+    "Voice Chat Channel":
+     "Voice Chat Channel",
+    "Set the voice chat channel.":
+     "Set the voice chat channel.",
+    "Show Microphone Status":
+     "Show Microphone Status",
+    "Shows whether your microphone is open or muted.":
+     "Shows whether your microphone is open or muted.",
+    "Recording":
+     "Recording",
+    "Start Recording":
+     "Start Recording",
+    "Start a new game recording using GTA V's built in recording.":
+     "Start a new game recording using GTA V's built in recording.",
+    "Stop Recording":
+     "Stop Recording",
+    "Stop and save your current recording.":
+     "Stop and save your current recording.",
+    "Rockstar Editor":
+     "Rockstar Editor",
+    "Open the rockstar editor, note you might want to quit the session first before doing this to prevent some issues.":
+     "Open the rockstar editor, note you might want to quit the session first before doing this to prevent some issues.",
+    "Teleport Options":
+     "Teleport Options",
+    "Teleport To Waypoint":
+     "Teleport To Waypoint",
+    "Teleport to the waypoint on your map.":
+     "Teleport to the waypoint on your map.",
+    "Teleport To Coords":
+     "瞬移到某座标",
+    "Enter x, y, z coordinates and you will be teleported to that location.":
+     "瞬移到您所输入的在 x, y, z 轴上的坐标所在的位置",
+    "Teleport Locations":
+     "瞬移到某地点",
+    "Teleport to pre-configured locations, added by the server owner.":
+     "瞬移到预设地点，此项内容由服主管理",
+    "Save Teleport Location":
+     "保存瞬移地点",
+    "Adds your current location to the teleport locations menu and saves it on the server.":
+     "添加您当前的位置到服务器上的预设瞬移地点列表",
+    "Development Tools":
+     "开发者工具",
+    "Clear Area":
+     "清理本区域",
+    "Clears the area around your player (100 meters). Damage, dirt, peds, props, vehicles, etc. Everything gets cleaned up, fixed and reset to the default world state.":
+     "清理您周围100米的圆形区域。损伤、痕迹、行人、道具、载具等都会被清理, 并将区域还原到原本的世界状态",
+    "Show Coordinates":
+     "显示坐标",
+    "Show your current coordinates at the top of your screen.":
+     "在窗口上方显示您当前的坐标位置",
+    "Show Vehicle Dimensions":
+     "显示载具尺寸",
+    "Draws the model outlines for every vehicle that's currently close to you.":
+     "为每一辆接近您的载具绘制包囊盒",
+    "Show Prop Dimensions":
+     "显示物体尺寸",
+    "Draws the model outlines for every prop that's currently close to you.":
+     "为每一个接近您的动态物体绘制包囊盒",
+    "Show Ped Dimensions":
+     "显示人物尺寸",
+    "Draws the model outlines for every ped that's currently close to you.":
+     "为每一名接近您的人物角色绘制包囊盒",
+    "Show Entity Handles":
+     "显示实体数据",
+    "Draws the the entity handles for all close entities (you must enable the outline functions above for this to work).":
+     "为每一个接近您的实体绘制 (you must enable the outline functions above for this to work).",
+    "Show Entity Models":
+     "Show Entity Models",
+    "Draws the the entity models for all close entities (you must enable the outline functions above for this to work).":
+     "Draws the the entity models for all close entities (you must enable the outline functions above for this to work).",
+    "Show Network Owners":
+     "Show Network Owners",
+    "Draws the the entity net owner for all close entities (you must enable the outline functions above for this to work).":
+     "Draws the the entity net owner for all close entities (you must enable the outline functions above for this to work).",
+    "Show Dimensions Radius":
+     "Show Dimensions Radius",
+    "Show entity model/handle/dimension draw range.":
+     "Show entity model/handle/dimension draw range.",
+    "TM":
+     "TM",
+    "Select a timecycle modifier and enable the checkbox above.":
+     "Select a timecycle modifier and enable the checkbox above.",
+    "Enable Timecycle Modifier":
+     "Enable Timecycle Modifier",
+    "Enable or disable the timecycle modifier from the list below.":
+     "Enable or disable the timecycle modifier from the list below.",
+    "Timecycle Modifier Intensity":
+     "Timecycle Modifier Intensity",
+    "Set the timecycle modifier intensity.":
+     "Set the timecycle modifier intensity.",
+    "Entity Spawner":
+     "Entity Spawner",
+    "Spawn and move entities":
+     "Spawn and move entities",
+    "Spawn New Entity":
+     "Spawn New Entity",
+    "Spawns entity into the world and lets you set its position and rotation":
+     "Spawns entity into the world and lets you set its position and rotation",
+    "Confirm Entity Position":
+     "Confirm Entity Position",
+    "Stops placing entity and sets it at it current location.":
+     "Stops placing entity and sets it at it current location.",
+    "Confirm Entity Position And Duplicate":
+     "Confirm Entity Position And Duplicate",
+    "Stops placing entity and sets it at it current location and creates new one to place.":
+     "Stops placing entity and sets it at it current location and creates new one to place.",
+    "Cancel":
+     "Cancel",
+    "Deletes current entity and cancels its placement":
+     "Deletes current entity and cancels its placement",
+    "Keybind Settings":
+     "Keybind Settings",
+    "Teleport to your waypoint when pressing the keybind. By default, this keybind is set to ~r~F7~s~, server owners are able to change this however so ask them if you don't know what it is.":
+     "Teleport to your waypoint when pressing the keybind. By default, this keybind is set to ~r~F7~s~, server owners are able to change this however so ask them if you don't know what it is.",
+    "Drift Mode":
+     "Drift Mode",
+    "Makes your vehicle have almost no traction while holding left shift on keyboard, or X on controller.":
+     "Makes your vehicle have almost no traction while holding left shift on keyboard, or X on controller.",
+    "Recording Controls":
+     "Recording Controls",
+    "Enables or disables the recording (gameplay recording for the Rockstar editor) hotkeys on both keyboard and controller.":
+     "Enables or disables the recording (gameplay recording for the Rockstar editor) hotkeys on both keyboard and controller.",
+    "Minimap Controls":
+     "Minimap Controls",
+    "Press the Multiplayer Info (z on keyboard, down arrow on controller) key to switch between expanded radar and normal radar.":
+     "Press the Multiplayer Info (z on keyboard, down arrow on controller) key to switch between expanded radar and normal radar.",
+    "Finger Point Controls":
+     "Finger Point Controls",
+    "Enables the finger point toggle key. The default QWERTY keyboard mapping for this is 'B', or for controller quickly double tap the right analog stick.":
+     "Enables the finger point toggle key. The default QWERTY keyboard mapping for this is 'B', or for controller quickly double tap the right analog stick.",
+    "Back":
+     "返回",
+    "Connection Options":
+     "连接相关选项",
+    "Quit Session":
+     "退出战局",
+    "Leaves you connected to the server, but quits the network session. ~r~Can not be used when you are the host.":
+     "不退出服务器但退出当前会话。 ~r~当你是会话主机时不可用",
+    "Re-join Session":
+     "重进战局",
+    "This may not work in all cases, but you can try to use this if you want to re-join the previous session after clicking 'Quit Session'.":
+     "在退出后重新加入前一个会话，可能不可用",
+    "Quit Game":
+     "退出游戏",
+    "Exits the game after 5 seconds.":
+     "在五秒后退出游戏",
+    "Disconnect From Server":
+     "退出服务器",
+    "Disconnects you from the server and returns you to the serverlist. ~r~This feature is not recommended, quit the game completely instead and restart it for a better experience.":
+     "退出服务器并返回主菜单 ~r~不推荐，建议直接重启游戏",
+    "Various teleport options.":
+     "一些传送相关的选项",
+    "Developer Tools":
+     "开发者工具",
+    "Various development/debug tools.":
+     "一些开发排障工具",
+    "Right Align Menu":
+     "菜单右对齐",
+    "If you want vMenu to appear on the left side of your screen, disable this option. This option will be saved immediately. You don't need to click save preferences.":
+     "想让本菜单显示在窗口左侧，则请关闭此选项。此项设置会即时保存于个人设置中。",
+    "Disable Private Messages":
+     "关闭私聊信息",
+    "Prevent others from sending you a private message via the Online Players menu. This also prevents you from sending messages to other players.":
+     "阻止其他玩家通过在线玩家菜单向您发送私信。此项同时会阻止您向其他玩家发送私信",
+    "Disable Controller Support":
+     "关闭手柄支持",
+    "This disables the controller menu toggle key. This does NOT disable the navigation buttons.":
+     "此选项会禁用手柄上打开本菜单的绑定键，但不会禁用手柄在本菜单中的导航键",
+    "Show Speed KM/H":
+     "显示千米每时速度",
+    "Show a speedometer on your screen indicating your speed in KM/h.":
+     "在窗口底部以千米每时显示当前载具速度",
+    "Show Speed MPH":
+     "显示英里每时速度",
+    "Show a speedometer on your screen indicating your speed in MPH.":
+     "在窗口底部以英里每时显示当前载具速度",
+    "Enable or disable keybinds for some options.":
+     "开启或关闭一些选项的快捷键",
+    "Server connection/game quit options.":
+     "连接/退出服务器选项",
+    "Location Display":
+     "显示当前位置",
+    "Shows your current location and heading, as well as the nearest cross road. Similar like PLD. ~r~Warning: This feature (can) take(s) up to -4.6 FPS when running at 60 Hz.":
+     "显示您当前的位置与朝向以及最近的道路名称。 ~r~警告：此功能在开启后会稍微拉低约 4.6 的帧速率",
+    "Show Time On Screen":
+     "显示游戏时间",
+    "Shows you the current time on screen.":
+     "在画面底部显示当前的游戏时间",
+    "Join / Quit Notifications":
+     "显示加入退出公告",
+    "Receive notifications when someone joins or leaves the server.":
+     "接收并显示某位玩家加入或退出服务器的公告通知",
+    "Death Notifications":
+     "显示死亡公告",
+    "Receive notifications when someone dies or gets killed.":
+     "接收并显示某位玩家死亡或被害的公告通知",
+    "Toggle Night Vision":
+     "切换夜视视图",
+    "Enable or disable night vision.":
+     "开启或关闭夜视增强视图",
+    "Toggle Thermal Vision":
+     "切换红外视图",
+    "Enable or disable thermal vision.":
+     "开启或关闭红外增强视图",
+    "Location Blips":
+     "显示地图标识",
+    "Shows blips on the map for some common locations.":
+     "在地图上显示一些常用地点的图标",
+    "Show Player Blips":
+     "显示玩家图标",
+    "Shows blips on the map for all players. ~y~Note for when the server is using OneSync Infinity: this won't work for players that are too far away.":
+     "在地图上显示玩家图标。~y~当服务器开启 OneSync 时，距离较远的玩家将不会被显示",
+    "Show Player Names":
+     "显示玩家昵称",
+    "Enables or disables player overhead names.":
+     "开启或关闭玩家头顶的昵称显示",
+    "Respawn As Default MP Character":
+     "重生为线上模式角色",
+    "If you enable this, then you will (re)spawn as your default saved MP character. Note the server owner can globally disable this option. To set your default character, go to one of your saved MP Characters and click the 'Set As Default Character' button.":
+     "开启后，您会以保存的默认线上模式角色出生。注意服主可以全局禁用此选项。您可以通过进入您所保存的线上模式角色项子菜单后选择“设置为默认角色”按钮来进行默认角色的设置",
+    "Restore Player Appearance":
+     "还原玩家样貌",
+    "Restore your player's skin whenever you respawn after being dead. Re-joining a server will not restore your previous skin.":
+     "在死亡重生后还原之前的玩家皮肤。退出服务器后不会保存",
+    "Restore Player Weapons":
+     "还原玩家武器",
+    "Restore your weapons whenever you respawn after being dead. Re-joining a server will not restore your previous weapons.":
+     "在死亡重生后还原之前所持有的武器。退出服务器后不会保存",
+    "Hide Radar":
+     "隐藏地图",
+    "Hide the radar/minimap.":
+     "隐藏雷达小地图",
+    "Hide Hud":
+     "隐藏界面",
+    "Hide all hud elements.":
+     "隐藏所有界面元素",
+    "Lock Camera Horizontal Rotation":
+     "锁定视角的水平偏转",
+    "Locks your camera horizontal rotation. Could be useful in helicopters I guess.":
+     "锁定玩家视角的水平偏转。大概在驾驶直升机上会有帮助",
+    "Lock Camera Vertical Rotation":
+     "锁定视角的垂直偏转",
+    "Locks your camera vertical rotation. Could be useful in helicopters I guess.":
+     "锁定玩家视角的垂直偏转。大概在驾驶直升机上会有帮助",
+    "Change Language":
+     "更改语言",
+    "Choose your preferred language.":
+     "选择您希望使用的语言",
+    "Save Personal Settings":
+     "保存个人设置",
+    "Save your current settings. All saving is done on the client side, if you re-install windows you will lose your settings. Settings are shared across all servers using vMenu.":
+     "保存您当前的一些通用设置到您的计算机上，如果你重装了系统则会丢失保存的设置。保存的设置适用于所有使用 vMenu 的服务器"
+}
