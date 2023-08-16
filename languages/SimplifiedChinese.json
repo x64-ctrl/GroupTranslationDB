@@ -1,0 +1,2054 @@
+{
+    "Main Menu":
+     "主菜单",
+    "Online Players":
+     "在线玩家",
+    "All currently connected players.":
+     "现在正在游玩的玩家",
+    "Banned Players":
+     "已封禁玩家",
+    "View and manage all banned players in this menu.":
+     "管理此脚本",
+    "Player Related Options":
+     "玩家相关选项",
+    "Open this submenu for player related subcategories.":
+     "此菜单含有玩家相关的子分类菜单",
+    "Vehicle Related Options":
+     "载具相关选项",
+    "Open this submenu for vehicle related subcategories.":
+     "此菜单含有载具相关的子分类菜单",
+    "World Related Options":
+     "世界相关选项",
+    "Open this submenu for world related subcategories.":
+     "此子菜单含有世界相关的子分类菜单",
+    "Voice Chat Settings":
+     "语音聊天设置",
+    "Change Voice Chat options here.":
+     "修改语音聊天相关的选项",
+    "Recording Options":
+     "录制相关选项",
+    "In-game recording options.":
+     "利用 R*编辑器 进行游戏内剪辑录制的相关选项",
+    "Misc Settings":
+     "其他选项",
+    "Miscellaneous vMenu options/settings can be configured here. You can also save your settings in this menu.":
+     "本菜单的一些其他选项设置可以在这里找到，保存设置也在这里",
+    "About vMenu":
+     "关于 vMenu",
+    "Information about vMenu.":
+     "关于本菜单的信息",
+    "Player Options":
+     "玩家选项",
+    "Common player options can be accessed here.":
+     "这里有常见的玩家选项",
+    "Player Appearance":
+     "玩家外貌",
+    "Choose a ped model, customize it and save & load your customized characters.":
+     "选择一个人物角色并进行自定义，或是保存和加载您的自定义角色",
+    "MP Ped Customization":
+     "自定义线上模式角色",
+    "Create, edit, save and load multiplayer peds. ~r~Note, you can only save peds created in this submenu. vMenu can NOT detect peds created outside of this submenu. Simply due to GTA limitations.":
+     "创建修改和保存加载线上模式角色\n~r~只能加载由本菜单内创建的角色",
+    "Weapon Options":
+     "武器选项",
+    "Add/remove weapons, modify weapons and set ammo options.":
+     "刷出或收回武器，以及武器改装和弹药相关选项",
+    "Weapon Loadouts":
+     "武器组",
+    "Mange, and spawn saved weapon loadouts.":
+     "管理或刷出已保存的武器组",
+    "Toggle NoClip":
+     "开关无界飞行",
+    "Toggle NoClip on or off.":
+     "启用或停用无界飞行",
+    "Vehicle Options":
+     "载具选项",
+    "Here you can change common vehicle options, as well as tune & style your vehicle.":
+     "修改载具的一些通常的、改装和样貌之类的选项",
+    "Vehicle Spawner":
+     "刷出载具",
+    "Spawn a vehicle by name or choose one from a specific category.":
+     "通过名称或分类选单刷出载具",
+    "Saved Vehicles":
+     "保存载具",
+    "Save new vehicles, or spawn or delete already saved vehicles.":
+     "保存一辆载具，以及已保存载具的管理有关的选项",
+    "Personal Vehicle":
+     "私有载具",
+    "Set a vehicle as your personal vehicle, and control some things about that vehicle when you're not inside.":
+     "设置私有载具，以及其自定义有关的选项",
+    "World Options":
+     "世界选项",
+    "Time Options":
+     "时间选项",
+    "Change the time, and edit other time related options.":
+     "更改游戏内时间，以及其他与时间有关的选项",
+    "Weather Options":
+     "天气选项",
+    "Change all weather related options here.":
+     "在此修改与天气有关的选项",
+    "Player:":
+     "玩家:",
+    "Send Private Message":
+     "发送私信",
+    "Sends a private message to this player. ~r~Note: staff may be able to see all PM's.":
+     "向此玩家发送私聊信息 ~r~注意：管理员可能会查看到所有私信",
+    "Teleport To Player":
+     "传送到玩家",
+    "Teleport to this player.":
+     "传送到此位玩家",
+    "Teleport Into Player Vehicle":
+     "传送到玩家载具内",
+    "Teleport into the vehicle of the player.":
+     "传送到此位玩家的载具内",
+    "Summon Player":
+     "召唤玩家",
+    "Teleport the player to you.":
+     "将此玩家传送到您身边",
+    "Spectate Player":
+     "偷窥玩家",
+    "Spectate this player. Click this button again to stop spectating.":
+     "偷窥此玩家，再按一次本按钮以结束偷窥",
+    "Toggle GPS":
+     "设置 GPS",
+    "Enables or disables the GPS route on your radar to this player.":
+     "开关到此玩家的 GPS 导航",
+    "Print Identifiers":
+     "输出玩家标识",
+    "This will print the player's identifiers to the client console (F8). And also save it to the CitizenFX.log file.":
+     "此选项会将该玩家的标识输出到客户端命令台（F8）和CitizenFX.log日志文件",
+    "~r~Kill Player":
+     "~r~杀害玩家",
+    "Kill this player, note they will receive a notification saying that you killed them. It will also be logged in the Staff Actions log.":
+     "杀害该玩家，他们会接收到公告通知，此项操作也会被记录到日志",
+    "~r~Kick Player":
+     "~r~踢出玩家",
+    "Kick the player from the server.":
+     "踢出此玩家",
+    "~r~Ban Player Temporarily":
+     "~r~限时封禁玩家",
+    "Give this player a tempban of up to 30 days (max). You can specify duration and ban reason after clicking this button.":
+     "将此玩家临时封禁到最长30天，您之后可以自定义时长并输入封禁原因",
+    "~r~Ban Player Permanently":
+     "~r~永久封禁玩家",
+    "Ban this player permanently from the server. Are you sure you want to do this? You can specify the ban reason after clicking this button.":
+     "将此玩家永久封禁于该服务器，您确认要这样做么？您之后可以输入封禁原因",
+    "Driving Style":
+     "驾驶风格",
+    "Custom Driving Style":
+     "自定义驾驶风格",
+    "Stop before vehicles":
+     "避让车辆",
+    "Toggle this driving style flag.":
+     "开关此驾驶风格属性",
+    "Stop before peds":
+     "避让行人",
+    "Avoid vehicles":
+     "避开载具",
+    "Avoid empty vehicles":
+     "避开空载具",
+    "Avoid peds":
+     "避开行人",
+    "Avoid objects":
+     "避开物体",
+    "~r~Unknown Flag":
+     "~r~未知属性",
+    "Stop at traffic lights":
+     "等待红绿灯",
+    "Use blinkers":
+     "使用转弯灯",
+    "Allow going wrong way":
+     "允许驶向错误路线",
+    "Go in reverse gear":
+     "倒着开车",
+    "Use shortest path":
+     "使用最短路径",
+    "Ignore roads":
+     "无视公路",
+    "Ignore all pathing":
+     "无视所有路径",
+    "Avoid highways (if possible)":
+     "尽量避开高速公路",
+    "Auto Pilot":
+     "自动驾驶",
+    "Vehicle auto pilot options.":
+     "载具的自动驾驶选项",
+    "Set the driving style that is used for the Drive to Waypoint and Drive Around Randomly functions.":
+     "设置行驶到导航点或随机行驶功能所用的驾驶风格",
+    "Select a custom driving style. Make sure to also enable it by selecting the 'Custom' driving style in the driving styles list.":
+     "设置自定义驾驶风格，请先选择'Custom'驾驶风格",
+    "Drive To Waypoint":
+     "行驶到导航点",
+    "Make your player ped drive your vehicle to your waypoint.":
+     "让您的角色自动驾驶到您在地图上标定的地点",
+    "Drive Around Randomly":
+     "随机行驶",
+    "Make your player ped drive your vehicle randomly around the map.":
+     "让您的角色在地图上随机驾驶",
+    "Stop Driving":
+     "停止自动驾驶",
+    "The player ped will find a suitable place to stop the vehicle. The task will be stopped once the vehicle has reached the suitable stop location.":
+     "您的角色会找一个合适的地方停车，未找到前不会停止驾驶",
+    "Force Stop Driving":
+     "强行停止自动驾驶",
+    "This will stop the driving task immediately without finding a suitable place to stop.":
+     "强行停止角色驾驶载具",
+    "Godmode":
+     "上帝模式",
+    "Makes you invincible.":
+     "使您拥有无限健康值",
+    "Invisible":
+     "透明状态",
+    "Makes you invisible to yourself and others.":
+     "使您的角色对自己和其他玩家不可见",
+    "Unlimited Stamina":
+     "无限耐力",
+    "Allows you to run forever without slowing down or taking damage.":
+     "让您能永远奔跑而不受到伤害",
+    "Fast Run":
+     "快速奔跑",
+    "Get ~g~Snail~s~ powers and run very fast!":
+     "赐予您 ~g~Snail~s~ 的豹跑力量！",
+    "Fast Swim":
+     "快速游泳",
+    "Get ~g~Snail 2.0~s~ powers and swim super fast!":
+     "赐予您 ~g~Snail 2.0~s~ 的豚游力量！",
+    "Super Jump":
+     "超级跳跃",
+    "Get ~g~Snail 3.0~s~ powers and jump like a champ!":
+     "赐予您 ~g~Snail 3.0~s~ 的猴跳力量！",
+    "No Ragdoll":
+     "无布娃娃",
+    "Disables player ragdoll, makes you not fall off your bike anymore.":
+     "关闭玩家角色布娃娃物理计算，使您不会从载具上摔下来",
+    "Never Wanted":
+     "从不被通缉",
+    "Disables all wanted levels.":
+     "清除玩家的所有通缉等级",
+    "Set Wanted Level":
+     "设定通缉等级",
+    "Set your wanted level by selecting a value, and pressing enter.":
+     "设定一个自定义通缉等级",
+    "Everyone Ignore Player":
+     "所有NPC无视玩家",
+    "Everyone will leave you alone.":
+     "所有NPC不会再对玩家产生反应",
+    "Stay In Vehicle":
+     "呆在载具内",
+    "When this is enabled, NPCs will not be able to drag you out of your vehicle if they get angry at you.":
+     "启用后愤怒的NPC不再能将您拽出载具",
+    "Heal Player":
+     "治疗玩家",
+    "Give the player max health.":
+     "给予您最大生命值",
+    "Set Armor Type":
+     "设定防弹衣类型",
+    "Set the armor level/type for your player.":
+     "设置玩家身着的防弹衣等级/类型",
+    "Clean Player Clothes":
+     "清洗玩家皮肤",
+    "Clean your player clothes.":
+     "清理您的角色身上的污渍",
+    "Dry Player Clothes":
+     "烘干玩家皮肤",
+    "Make your player clothes dry.":
+     "烘干您的角色皮肤",
+    "Wet Player Clothes":
+     "打湿角色皮肤",
+    "Make your player clothes wet.":
+     "打湿您的角色皮肤",
+    "~r~Commit Suicide":
+     "~r~自我了断",
+    "Kill yourself by taking the pill. Or by using a pistol if you have one.":
+     "使用药丸或是手枪自我了断",
+    "Vehicle Auto Pilot Menu":
+     "载具自动驾驶菜单",
+    "Manage vehicle auto pilot options.":
+     "管理载具自动驾驶的相关选项",
+    "Freeze Player":
+     "冻结玩家",
+    "Freezes your current location.":
+     "将玩家冻结到当前位置",
+    "Player Scenarios":
+     "玩家动作",
+    "Select a scenario and hit enter to start it. Selecting another scenario will override the current scenario. If you're already playing the selected scenario, selecting it again will stop the scenario.":
+     "选择一项动作以播放，再次选择停止播放。选择另一项会覆盖当前播放动作",
+    "Force Stop Scenario":
+     "强行停止动作",
+    "This will force a playing scenario to stop immediately, without waiting for it to finish it's 'stopping' animation.":
+     "不等待播放结束动画而强行停止玩家动作",
+    "Vehicle Godmode":
+     "载具上帝模式",
+    "Vehicle Godmode Options":
+     "载具上帝模式相关选项",
+    "Invincible":
+     "载具无敌",
+    "Makes the car invincible. Includes fire damage, explosion damage, collision damage and more.":
+     "让您的载具无敌而不受到火焰爆炸摔落等伤害",
+    "Engine Damage":
+     "引擎伤害",
+    "Disables your engine from taking any damage.":
+     "关闭对引擎的伤害",
+    "Visual Damage":
+     "视觉伤害",
+    "This prevents scratches and other damage decals from being applied to your vehicle. It does not prevent (body) deformation damage.":
+     "关闭刮痕等装饰层的显示，并不能防止车身变形",
+    "Strong Wheels":
+     "高强度车轮",
+    "Disables your wheels from being deformed and causing reduced handling. This does not make tires bulletproof.":
+     "防止车轮变形而改变载具操作手感，并不会让车轮防弹",
+    "Ramp Damage":
+     "斜坡伤害",
+    "Disables vehicles such as the Ramp Buggy from taking damage when using the ramp.":
+     "防止例如斜面魔宝等带斜坡的载具因撞飞其他载具而受到伤害",
+    "~r~Auto Repair":
+     "~r~自动修复",
+    "Automatically repairs your vehicle when it has ANY type of damage. It's recommended to keep this turned off to prevent glitchyness.":
+     "在受到任何伤害时自动修复载具，为防止意料外的情况推荐保持关闭",
+    "Vehicle Doors":
+     "载具门",
+    "Vehicle Doors Management":
+     "载具门管理",
+    "Left Front Door":
+     "左前门",
+    "Open/close the left front door.":
+     "开关左前门.",
+    "Right Front Door":
+     "右前门",
+    "Open/close the right front door.":
+     "开关右前门.",
+    "Left Rear Door":
+     "左后门",
+    "Open/close the left rear door.":
+     "开关左后门.",
+    "Right Rear Door":
+     "右后门",
+    "Open/close the right rear door.":
+     "开关右后门.",
+    "Hood":
+     "引擎盖",
+    "Open/close the hood.":
+     "开关引擎盖.",
+    "Trunk":
+     "货舱门",
+    "Open/close the trunk.":
+     "开关货舱门.",
+    "Extra 1":
+     "附加 1",
+    "Open/close the extra door (#1). Note this door is not present on most vehicles.":
+     "开关附加门 (#1)。此门在大多数载具中不存在",
+    "Extra 2":
+     "附加 2",
+    "Open/close the extra door (#2). Note this door is not present on most vehicles.":
+     "开关附加门 (#2)。此门在大多数载具中不存在",
+    "Bomb Bay":
+     "投弹舱门",
+    "Open/close the bomb bay. Only available on some planes.":
+     "开关投弹舱门。只在部分飞行载具上有",
+    "Open All Doors":
+     "开启所有门",
+    "Open all vehicle doors.":
+     "打开载具上的所有门",
+    "Close All Doors":
+     "关闭所有门",
+    "Close all vehicle doors.":
+     "关闭载具上的所有门",
+    "Remove Door":
+     "切断门",
+    "Remove a specific vehicle door completely.":
+     "直接切断某个特定的门",
+    "Delete Removed Doors":
+     "直接删除门",
+    "When enabled, doors that you remove using the list above will be deleted from the world. If disabled, then the doors will just fall on the ground.":
+     "开启后在上方菜单选中的门会直接消失，关闭则还是会切断门",
+    "Vehicle Windows":
+     "载具窗户",
+    "Vehicle Windows Management":
+     "载具窗户管理",
+    "~y~↑~s~ Roll Front Windows Up":
+     "~y~↑~s~ 摇起前车窗",
+    "Roll both front windows up.":
+     "摇起前方的两扇车窗",
+    "~o~↓~s~ Roll Front Windows Down":
+     "~o~↓~s~ 摇下前车窗",
+    "Roll both front windows down.":
+     "摇下前方的两扇车窗",
+    "~y~↑~s~ Roll Rear Windows Up":
+     "~y~↑~s~ 摇起后车窗",
+    "Roll both rear windows up.":
+     "摇起后方的两扇车窗",
+    "~o~↓~s~ Roll Rear Windows Down":
+     "~o~↓~s~ 摇下后车窗",
+    "Roll both rear windows down.":
+     "摇下后方的两扇车窗",
+    "Vehicle Colors":
+     "载具色调",
+    "Primary Color":
+     "主色调",
+    "Secondary Color":
+     "副色调",
+    "Chrome":
+     "铬合金",
+    "Vehicle Enveff Scale":
+     "载具环境效果",
+    "This works on certain vehicles only, like the besra for example. It 'fades' certain paint layers.":
+     "只在例如雀鹰等一些早期载具上有效，可控制叠加绘制层的可见度",
+    "Dashboard Color":
+     "仪表盘色调",
+    "Interior / Trim Color":
+     "内饰颜色",
+    "Wheel Color":
+     "轮毂颜色",
+    "Confirm Action":
+     "确认操作",
+    "Delete Vehicle, Are You Sure?":
+     "将删除载具，您确认么？",
+    "NO, CANCEL":
+     "并不，请取消",
+    "NO, do NOT delete my vehicle and go back!":
+     "啊别别别，我还不想删掉这载具！",
+    "~r~YES, DELETE":
+     "~r~好的，请继续",
+    "Yes I'm sure, delete my vehicle please, I understand that this cannot be undone.":
+     "好的，我确认要删除，并且已知此操作不可撤销",
+    "Vehicle Neon Kits":
+     "载具霓虹灯组件",
+    "Vehicle Neon Underglow Options":
+     "载具底部的霓虹灯相关选项",
+    "Enable Front Light":
+     "启用前灯",
+    "Enable or disable the underglow on the front side of the vehicle. Note not all vehicles have lights.":
+     "启用或关闭载具前方的霓虹灯，不是所有载具都有此灯",
+    "Enable Rear Light":
+     "启用后灯",
+    "Enable or disable the underglow on the left side of the vehicle. Note not all vehicles have lights.":
+     "启用或关闭载具后方的霓虹灯，不是所有载具都有此灯",
+    "Enable Left Light":
+     "启用左灯",
+    "Enable or disable the underglow on the right side of the vehicle. Note not all vehicles have lights.":
+     "启用或关闭载具左侧的霓虹灯，不是所有载具都有此灯",
+    "Enable Right Light":
+     "启用右灯",
+    "Enable or disable the underglow on the back side of the vehicle. Note not all vehicles have lights.":
+     "启用或关闭载具右侧的霓虹灯，不是所有载具都有此灯",
+    "Neon Color":
+     "霓虹颜色",
+    "Select the color of the neon underglow.":
+     "选择霓虹灯的发光颜色",
+    "Primary Colors":
+     "主色调",
+    "Classic":
+     "经典色",
+    "Metallic":
+     "金属色",
+    "Matte":
+     "亚光色",
+    "Metals":
+     "金属车身",
+    "Util":
+     "透彻色",
+    "Worn":
+     "褪旧色",
+    "Secondary Colors":
+     "副色调",
+    "Pearlescent":
+     "珠光色",
+    "Vehicle God Mode":
+     "载具上帝模式",
+    "Makes your vehicle not take any damage. Note, you need to go into the god menu options below to select what kind of damage you want to disable.":
+     "使当前载具不受任何伤害，需在下方的子菜单中选择伤害类型",
+    "God Mode Options":
+     "载具上帝模式相关选项",
+    "Enable or disable specific damage types.":
+     "开启或关闭特定的伤害类型",
+    "Repair Vehicle":
+     "修复载具",
+    "Repair any visual and physical damage present on your vehicle.":
+     "修复当前载具的视觉与物理上的任何伤害",
+    "Keep Vehicle Clean":
+     "保持载具清洁",
+    "This will constantly clean your car if the vehicle dirt level goes above 0. Note that this only cleans ~o~dust~s~ or ~o~dirt~s~. This does not clean mud, snow or other ~r~damage decals~s~. Repair your vehicle to remove them.":
+     "会立即清洁载具并保持干净。只会清理~o~尘土~s~或~o~污渍~s~。不会清理淤泥、雪渍等 ~r~视觉损伤~s~，用修复载具来清理这些。",
+    "Wash Vehicle":
+     "清洗载具",
+    "Clean your vehicle.":
+     "一次性清洗载具",
+    "Set Dirt Level":
+     "设置肮脏程度",
+    "Select how much dirt should be visible on your vehicle, press ~r~enter~s~ to apply the selected level.":
+     "选择一个程度并按 ~r~回车键~s~ 应用",
+    "Mod Menu":
+     "改装菜单",
+    "Tune and customize your vehicle here.":
+     "在这里自定义改装载具",
+    "Style your vehicle even further by giving it some ~g~Snailsome ~s~colors!":
+     "风格化您的载具，甚至是涂上一层 ~g~酷蜗 ~s~色彩！",
+    "Make your vehicle shine with some fancy neon underglow!":
+     "载具闪闪亮！霓虹色色光！",
+    "Vehicle Liveries":
+     "载具涂装",
+    "Style your vehicle with fancy liveries!":
+     "用涂装让您的载具独一无二！",
+    "Vehicle Extras":
+     "载具部件",
+    "Add/remove vehicle components/extras.":
+     "添加或移除载具部件",
+    "Toggle Engine On/Off":
+     "切换引擎开关",
+    "Turn your engine on/off.":
+     "启动或关闭载具引擎",
+    "Set License Plate Text":
+     "设定车牌文字",
+    "Enter a custom license plate for your vehicle.":
+     "为您当前的载具设置自定义车牌号",
+    "License Plate Type":
+     "车牌类型",
+    "Choose a license plate type and press ~r~enter ~s~to apply it to your vehicle.":
+     "选择一种车牌并按下 ~r~回车键 ~s~应用",
+    "Open, close, remove and restore vehicle doors here.":
+     "在这里打开关闭或移除还原车门",
+    "Roll your windows up/down or remove/restore your vehicle windows here.":
+     "在这里摇下或摇起载具车窗",
+    "Bike Seatbelt":
+     "摩托车安全带",
+    "Prevents you from being knocked off your bike, bicyle, ATV or similar.":
+     "防止您从二轮载具或四轮沙滩车上摔下来",
+    "Speed Limiter":
+     "限速器",
+    "Set your vehicles max speed to your ~y~current speed~s~. Resetting your vehicles max speed will set the max speed of your current vehicle back to default. Only your current vehicle is affected by this option.":
+     "将载具最大速度限制到~y~当前速度~s~。只会对当前载具有效",
+    "Enable Torque Multiplier":
+     "开启扭矩倍乘",
+    "Enables the torque multiplier selected from the list below.":
+     "开启扭矩加成，倍数从下方列表中选择",
+    "Set Engine Torque Multiplier":
+     "设定扭矩倍数",
+    "Set the engine torque multiplier.":
+     "为引擎转数设定乘数",
+    "Enable Power Multiplier":
+     "开启动力倍乘",
+    "Enables the power multiplier selected from the list below.":
+     "开启引擎动力加成，倍数从下方列表中选择",
+    "Set Engine Power Multiplier":
+     "设定动力倍数",
+    "Set the engine power multiplier.":
+     "为动力设定倍数",
+    "Disable Plane Turbulence":
+     "关闭飞机扰流",
+    "Disables the turbulence for all planes. Note only works for planes. Helicopters and other flying vehicles are not supported.":
+     "对飞机关闭扰流，不对直升机和其他飞行车辆生效",
+    "Flip Vehicle":
+     "翻转载具",
+    "Sets your current vehicle on all 4 wheels.":
+     "使当前载具归正",
+    "Toggle Vehicle Alarm":
+     "切换载具警报",
+    "Starts/stops your vehicle's alarm.":
+     "开始或停止让当前载具发出警报",
+    "Cycle Through Vehicle Seats":
+     "在载具座位间循环",
+    "Cycle through the available vehicle seats.":
+     "在可用的座位间循环入座",
+    "Vehicle Lights":
+     "载具灯光",
+    "Turn vehicle lights on/off.":
+     "开启或关闭载具灯光",
+    "Fix / Destroy Tires":
+     "修复或扎破车胎",
+    "Fix or destroy a specific vehicle tire, or all of them at once. Note, not all indexes are valid for all vehicles, some might not do anything on certain vehicles.":
+     "修复或扎破特定或所有车胎。不是所有载具都有这些轮胎。",
+    "Freeze Vehicle":
+     "冻结载具",
+    "Freeze your vehicle's position.":
+     "将当前载具冻结在现在的位置",
+    "Toggle Vehicle Visibility":
+     "切换载具可见状态",
+    "Makes your vehicle visible/invisible. ~r~Your vehicle will be made visible again as soon as you leave the vehicle. Otherwise you would not be able to get back in.":
+     "使当前载具车身可见或不可见。~r~您下车后载具会变回可见状态",
+    "Engine Always On":
+     "引擎总是开启",
+    "Keeps your vehicle engine on when you exit your vehicle.":
+     "在您离开该载具后引擎也将保持运作",
+    "Infinite Fuel":
+     "无限燃料",
+    "Enables or disables infinite fuel for this vehicle, only works if FRFuel is installed.":
+     "启用或关闭对该载具的无限燃料供应，需要安装并启用 FRFuel",
+    "Show Vehicle Health":
+     "显示载具健康度",
+    "Shows the vehicle health on the screen.":
+     "在窗口上方显示该载具的健康程度",
+    "Default Radio Station":
+     "默认电台",
+    "Select a default radio station to be set when spawning new car":
+     "设定刷出新载具时默认播放的电台",
+    "Disable Siren":
+     "关闭警笛",
+    "Disables your vehicle's siren. Only works if your vehicle actually has a siren.":
+     "关闭该载具的警笛。只当载具有警笛时有效",
+    "No Bike Helmet":
+     "不戴头盔",
+    "No longer auto-equip a helmet when getting on a bike or quad.":
+     "骑行二轮载具或四轮摩托时不会再自动戴上头盔",
+    "Flash Highbeams On Honk":
+     "鸣笛时闪烁大灯",
+    "Turn on your highbeams on your vehicle when honking your horn. Does not work during the day when you have your lights turned off.":
+     "在鸣笛时开启远光灯。白天关闭灯光时不可用",
+    "~r~Delete Vehicle":
+     "~r~移除载具",
+    "Delete your vehicle, this ~r~can NOT be undone~s~!":
+     "移除当前驾驶的载具 ~r~将无法撤销~s~！",
+    "Addon Vehicles":
+     "添加式载具",
+    "Choose how you'd like to find your car":
+     "选择按什么方式分类来找到您想要的载具",
+    "Compacts":
+     "小型汽车",
+    "There are no addon cars available in this category.":
+     "此分类里没有添加式载具",
+    "Sedans":
+     "轿车",
+    "SUVs":
+     "SUV",
+    "Coupes":
+     "轿跑车",
+    "Muscle":
+     "肌肉车",
+    "Sports Classics":
+     "经典跑车",
+    "Sports":
+     "跑车",
+    "Super":
+     "超级跑车",
+    "Motorcycles":
+     "摩托车",
+    "Off-Road":
+     "越野车",
+    "Industrial":
+     "工业用车",
+    "Utility":
+     "公共事业用车",
+    "Vans":
+     "厢型车",
+    "Cycles":
+     "自行车",
+    "Boats":
+     "船",
+    "Helicopters":
+     "直升机",
+    "Planes":
+     "飞机",
+    "Service":
+     "服务用车",
+    "Emergency":
+     "特种车",
+    "Military":
+     "军用车",
+    "Commercial":
+     "商用车",
+    "Trains":
+     "火车",
+    "Open Wheel":
+     "开轮式",
+    "Unavailable Vehicles":
+     "不可用载具",
+    "These addon vehicles are not currently being streamed (correctly) and are not able to be spawned.":
+     "这些载具未被串流或配置错误而无法刷出",
+    "Spawn Vehicle By Model Name":
+     "通过名称刷出载具",
+    "Enter the name of a vehicle to spawn.":
+     "手动输入载具名来刷出载具",
+    "Spawn Inside Vehicle":
+     "刷出到载具内",
+    "This will teleport you into the vehicle when you spawn it.":
+     "此选项会使您在载具刷出后坐进驾驶位",
+    "Replace Previous Vehicle":
+     "替换前一载具",
+    "This will automatically delete your previously spawned vehicle when you spawn a new vehicle.":
+     "此选项会自动在刷出载具时替换您正驾驶的载具",
+    "A list of addon vehicles available on this server.":
+     "服务器上可用的添加式载具列表",
+    "Spawn a vehicle from the ~o~Compacts ~s~class.":
+     "从 ~o~小型汽车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Sedans ~s~class.":
+     "从 ~o~轿车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~SUVs ~s~class.":
+     "从 ~o~SUV ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Coupes ~s~class.":
+     "从 ~o~轿跑车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Muscle ~s~class.":
+     "从 ~o~肌肉车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Sports Classics ~s~class.":
+     "从 ~o~经典跑车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Sports ~s~class.":
+     "从 ~o~跑车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Super ~s~class.":
+     "从 ~o~超级跑车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Motorcycles ~s~class.":
+     "从 ~o~摩托车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Off-Road ~s~class.":
+     "从 ~o~越野车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Industrial ~s~class.":
+     "从 ~o~工业用车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Utility ~s~class.":
+     "从 ~o~公共事业用车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Vans ~s~class.":
+     "从 ~o~厢型车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Cycles ~s~class.":
+     "从 ~o~自行车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Boats ~s~class.":
+     "从 ~o~船 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Helicopters ~s~class.":
+     "从 ~o~直升机 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Planes ~s~class.":
+     "从 ~o~飞机 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Service ~s~class.":
+     "从 ~o~服务用车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Emergency ~s~class.":
+     "从 ~o~特种车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Military ~s~class.":
+     "从 ~o~军用车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Commercial ~s~class.":
+     "从 ~o~商用车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Trains ~s~class.":
+     "从 ~o~火车 ~s~分类中刷出一辆载具",
+    "Spawn a vehicle from the ~o~Open Wheel ~s~class.":
+     "从 ~o~开轮式 ~s~分类中刷出一辆载具",
+    "Manage Vehicle":
+     "管理载具",
+    "Manage this saved vehicle.":
+     "管理该已保存载具",
+    "Spawn Vehicle":
+     "刷出载具",
+    "Spawn this saved vehicle.":
+     "刷出该已保存载具",
+    "Rename Vehicle":
+     "重命名载具",
+    "Rename your saved vehicle.":
+     "重命名该已保存载具",
+    "~r~Replace Vehicle":
+     "~r~替换载具",
+    "Your saved vehicle will be replaced with the vehicle you are currently sitting in. ~r~Warning: this can NOT be undone!":
+     "这将用当前驾驶载具替换已保存载具 ~r~警告：此操作不可撤销！",
+    "~r~This will delete your saved vehicle. Warning: this can NOT be undone!":
+     "~r~这将删除此已保存载具。且操作不可撤销！",
+    "Manage Saved Vehicles":
+     "管理已保存载具",
+    "Save Current Vehicle":
+     "保存当前载具",
+    "Save the vehicle you are currently sitting in.":
+     "保存当前驾驶的载具",
+    "All saved vehicles from the Compacts category.":
+     "所有 小型汽车 分类下的已保存载具",
+    "All saved vehicles from the Sedans category.":
+     "所有 轿车 分类下的已保存载具",
+    "All saved vehicles from the SUVs category.":
+     "所有 SUV 分类下的已保存载具",
+    "All saved vehicles from the Coupes category.":
+     "所有 轿跑车 分类下的已保存载具",
+    "All saved vehicles from the Muscle category.":
+     "所有 肌肉车 分类下的已保存载具",
+    "All saved vehicles from the Sports Classics category.":
+     "所有 经典跑车 分类下的已保存载具",
+    "All saved vehicles from the Sports category.":
+     "所有 跑车 分类下的已保存载具",
+    "All saved vehicles from the Super category.":
+     "所有 超级跑车 分类下的已保存载具",
+    "All saved vehicles from the Motorcycles category.":
+     "所有 摩托车 分类下的已保存载具",
+    "All saved vehicles from the Off-Road category.":
+     "所有 越野车 分类下的已保存载具",
+    "All saved vehicles from the Industrial category.":
+     "所有 工业用车 分类下的已保存载具",
+    "All saved vehicles from the Utility category.":
+     "所有 公共事业用车 分类下的已保存载具",
+    "All saved vehicles from the Vans category.":
+     "所有 厢型车 分类下的已保存载具",
+    "All saved vehicles from the Cycles category.":
+     "所有 自行车 分类下的已保存载具",
+    "All saved vehicles from the Boats category.":
+     "所有 船 分类下的已保存载具",
+    "All saved vehicles from the Helicopters category.":
+     "所有 直升机 分类下的已保存载具",
+    "All saved vehicles from the Planes category.":
+     "所有 飞机 分类下的已保存载具",
+    "All saved vehicles from the Service category.":
+     "所有 服务用车 分类下的已保存载具",
+    "All saved vehicles from the Emergency category.":
+     "所有 特种车 分类下的已保存载具",
+    "All saved vehicles from the Military category.":
+     "所有 军用车 分类下的已保存载具",
+    "All saved vehicles from the Commercial category.":
+     "所有 商用车 分类下的已保存载具",
+    "All saved vehicles from the Trains category.":
+     "所有 火车 分类下的已保存载具",
+    "All saved vehicles from the Open Wheel category.":
+     "所有 开轮式 分类下的已保存载具",
+    "Unavailable Saved Vehicles":
+     "不可用已保存载具",
+    "These vehicles are currently unavailable because the models are not present in the game. These vehicles are most likely not being streamed from the server.":
+     "因为不存在而不可用的载具，通常是因为服务器无对应串流",
+    "Personal Vehicle Options":
+     "私有载具相关选项",
+    "Set Vehicle":
+     "设置为私有载具",
+    "Sets your current vehicle as your personal vehicle. If you already have a personal vehicle set then this will override your selection.":
+     "设置当前载具为私有载具。再次设置会覆盖掉前一私有载具",
+    "Toggle Engine":
+     "切换引擎状态",
+    "Toggles the engine on or off, even when you're not inside of the vehicle. This does not work if someone else is currently using your vehicle.":
+     "在载具外开启或关闭引擎，有人使用载具时不可用",
+    "Set Vehicle Lights":
+     "切换灯光状态",
+    "This will enable or disable your vehicle headlights, the engine of your vehicle needs to be running for this to work.":
+     "开启或关闭载具大灯，引擎必须先开启",
+    "Kick Passengers":
+     "踢出乘客",
+    "This will remove all passengers from your personal vehicle.":
+     "此选项会让载具内所有乘客强制离开载具",
+    "Lock Vehicle Doors":
+     "锁定载具门",
+    "This will lock all your vehicle doors for all players. Anyone already inside will always be able to leave the vehicle, even if the doors are locked.":
+     "此选项会锁上所有的门，已在载具内的玩家依然可以下车",
+    "Unlock Vehicle Doors":
+     "解锁载具门",
+    "This will unlock all your vehicle doors for all players.":
+     "此选项会解锁所有的门",
+    "Sound Horn":
+     "鸣笛",
+    "Sounds the horn of the vehicle.":
+     "按下载具的喇叭",
+    "Toggle Alarm Sound":
+     "切换警报声",
+    "Toggles the vehicle alarm sound on or off. This does not set an alarm. It only toggles the current sounding status of the alarm.":
+     "开启或关闭载具警报声音。这不会引发报警，而是切换当前警报的状态",
+    "Add Blip For Personal Vehicle":
+     "添加到私有载具的图标",
+    "Enables or disables the blip that gets added when you mark a vehicle as your personal vehicle.":
+     "开启或关闭您的私有载具的地图图标",
+    "Exclusive Driver":
+     "为我所有",
+    "If enabled, then you will be the only one that can enter the drivers seat. Other players will not be able to drive the car, however, they can still be passengers.":
+     "开启后只有您能驾驶该载具，其他玩家只能作为乘客",
+    "Spawn Ped":
+     "刷出人物",
+    "Addon Peds":
+     "添加式人物",
+    "Spawn a ped from the addon peds list.":
+     "刷出在添加式人物列表中的自定义人物",
+    "Spawn By Name":
+     "按名称刷出",
+    "Spawn a ped by entering it's name manually.":
+     "通过手动输入人物名刷出人物",
+    "Main Peds":
+     "主角",
+    "Select a new ped from the main player-peds list.":
+     "刷出 GTAV 与 GTAOL 游戏主角色",
+    "Animals":
+     "动物",
+    "This is disabled by the server owner, probably for a good reason because animals quite often crash the game.":
+     "此项被服主禁用，大概因为动物常会使游戏崩溃",
+    "Male Peds":
+     "男性角色",
+    "Select a male ped.":
+     "选择刷出一名男性角色",
+    "Female Peds":
+     "女性角色",
+    "Select a female ped.":
+     "选择刷出一名女性角色",
+    "Other Peds":
+     "其他角色",
+    "Select a ped.":
+     "选择刷出一名特殊配角",
+    "Saved Ped":
+     "已保存角色",
+    "renameme":
+     "重命名",
+    "Spawn Saved Ped":
+     "刷出已保存人物",
+    "Spawn this saved ped.":
+     "刷出此保存项",
+    "Clone Saved Ped":
+     "复制已保存人物",
+    "Clone this saved ped.":
+     "为当前保存项创建副本",
+    "Rename Saved Ped":
+     "重命名已保存人物",
+    "Rename this saved ped.":
+     "为当前保存项换个名称",
+    "~r~Replace Saved Ped":
+     "~r~替换已保存人物",
+    "Repalce this saved ped with your current ped. Note this can not be undone!":
+     "用当前人物替换此保存项。注意操作不可撤销！",
+    "~r~Delete Saved Ped":
+     "~r~删除已保存人物",
+    "Delete this saved ped. Note this can not be undone!":
+     "删除此保存项。注意操作不可撤销！",
+    "Ped Customization":
+     "人物打扮",
+    "Modify your ped's appearance.":
+     "修改当前人物的外貌",
+    "Save Ped":
+     "保存人物",
+    "Save your current ped. Note for the MP Male/Female peds this won't save most of their customization, just because that's impossible. Create those characters in the MP Character creator instead.":
+     "保存当前人物。不要用此项保存线上模式人物，请使用线上模式人物制作器。",
+    "Saved Peds":
+     "已保存人物",
+    "Edit, rename, clone, spawn or delete saved peds.":
+     "修改、重命名、复制、刷出或删除已保存的人物",
+    "Spawn Peds":
+     "刷出人物",
+    "Change ped model by selecting one from the list or by selecting an addon ped from the list.":
+     "更改当前使用的人物角色皮肤",
+    "Walking Style":
+     "步行风格",
+    "Change the walking style of your current ped. You need to re-apply this each time you change player model or load a saved ped.":
+     "更改当前人物的行走风格。更换人物后需重新设置",
+    "Illuminated Clothing Style":
+     "自发光衣物风格",
+    "Set the style of the animation used on your player's illuminated clothing items.":
+     "选择自发光衣物的动画样式",
+    "Create Character":
+     "创建角色",
+    "Create A New Character":
+     "创建一名新角色",
+    "Character Inheritance":
+     "角色遗传",
+    "Character inheritance options.":
+     "角色遗传相关选项",
+    "Character Appearance":
+     "角色外表",
+    "Character appearance options.":
+     "角色外貌相关选项",
+    "Character Face Shape Options":
+     "角色容貌选项",
+    "Character face shape options.":
+     "角色容貌相关选项",
+    "Character Tattoo Options":
+     "角色纹身选项",
+    "Character tattoo options.":
+     "角色纹身相关选项",
+    "Character Clothes":
+     "角色衣物",
+    "Character clothes.":
+     "角色身着的衣物",
+    "Character Props":
+     "角色道具",
+    "Character props.":
+     "角色佩戴的道具",
+    "Facial Expression":
+     "面部表情",
+    "Set a facial expression that will be used whenever your ped is idling.":
+     "为您的角色设置一个空闲状态时的面部表情",
+    "Save Character":
+     "保存角色",
+    "Save your character.":
+     "保存您打造的角色",
+    "Exit Without Saving":
+     "不保存退出",
+    "Are you sure? All unsaved work will be lost.":
+     "您确定么？所有未保存项都会丢失",
+    "Character Inheritance Options":
+     "角色遗传选项",
+    "Father":
+     "父亲",
+    "Select a father.":
+     "选择一位父亲",
+    "Mother":
+     "母亲",
+    "Select a mother.":
+     "选择一位母亲",
+    "Head Shape Mix":
+     "头型混合比",
+    "Select how much of your head shape should be inherited from your father or mother. All the way on the left is your dad, all the way on the right is your mom.":
+     "滑动滑块混合来自父母的头型，左侧为父亲，右侧为母亲",
+    "Body Skin Mix":
+     "肤色混合比",
+    "Select how much of your body skin tone should be inherited from your father or mother. All the way on the left is your dad, all the way on the right is your mom.":
+     "滑动滑块混合来自父母的肤色，左侧为父亲，右侧为母亲",
+    "Nose Width":
+     "鼻宽",
+    "Set the Nose Width face feature value.":
+     "设置鼻头宽度",
+    "Noes Peak Height":
+     "鼻尖高度",
+    "Set the Noes Peak Height face feature value.":
+     "设置鼻尖高度面部特征的值",
+    "Nose Peak Length":
+     "鼻尖长度",
+    "Set the Nose Peak Length face feature value.":
+     "设置鼻尖长度面部特征的值",
+    "Nose Bone Height":
+     "鼻梁高度",
+    "Set the Nose Bone Height face feature value.":
+     "设置鼻梁高度面部特征的值",
+    "Nose Peak Lowering":
+     "鼻尖弯曲",
+    "Set the Nose Peak Lowering face feature value.":
+     "设置鼻尖弯曲面部特征的值",
+    "Nose Bone Twist":
+     "鼻梁弯曲",
+    "Set the Nose Bone Twist face feature value.":
+     "设置鼻梁弯曲面部特征的值",
+    "Eyebrows Height":
+     "眉毛高度",
+    "Set the Eyebrows Height face feature value.":
+     "设置眉毛高度面部特征的值",
+    "Eyebrows Depth":
+     "眉毛深度",
+    "Set the Eyebrows Depth face feature value.":
+     "设置眉毛深度面部特征的值",
+    "Cheekbones Height":
+     "额骨高度",
+    "Set the Cheekbones Height face feature value.":
+     "设置额骨高度面部特征的值",
+    "Cheekbones Width":
+     "额骨宽度",
+    "Set the Cheekbones Width face feature value.":
+     "设置额骨宽度面部特征的值",
+    "Cheeks Width":
+     "脸颊宽度",
+    "Set the Cheeks Width face feature value.":
+     "设置脸颊宽度面部特征的值",
+    "Eyes Opening":
+     "眼镜大小",
+    "Set the Eyes Opening face feature value.":
+     "设置眼镜大小面部特征的值",
+    "Lips Thickness":
+     "嘴唇厚度",
+    "Set the Lips Thickness face feature value.":
+     "设置嘴唇厚度面部特征的值",
+    "Jaw Bone Width":
+     "颌骨宽度",
+    "Set the Jaw Bone Width face feature value.":
+     "设置颌骨宽度面部特征的值",
+    "Jaw Bone Depth/Length":
+     "颌骨深度/长度",
+    "Set the Jaw Bone Depth/Length face feature value.":
+     "设置颌骨深度/长度面部特征的值",
+    "Chin Height":
+     "下巴高度",
+    "Set the Chin Height face feature value.":
+     "设置下巴高度面部特征的值",
+    "Chin Depth/Length":
+     "下巴深度/长度",
+    "Set the Chin Depth/Length face feature value.":
+     "设置下巴深度/长度面部特征的值",
+    "Chin Width":
+     "下巴宽度",
+    "Set the Chin Width face feature value.":
+     "设置下巴宽度面部特征的值",
+    "Chin Hole Size":
+     "下巴孔大小",
+    "Set the Chin Hole Size face feature value.":
+     "设置下巴孔大小面部特征的值",
+    "Neck Thickness":
+     "脖颈厚度",
+    "Set the Neck Thickness face feature value.":
+     "设置脖颈厚度面部特征的值",
+    "Manage MP Character":
+     "管理线上模式角色",
+    "Spawn Saved Character":
+     "刷出已保存角色",
+    "Spawns the selected saved character.":
+     "刷出此已保存角色",
+    "Edit Saved Character":
+     "修改已保存角色",
+    "This allows you to edit everything about your saved character. The changes will be saved to this character's save file entry once you hit the save button.":
+     "修改此已保存的角色，注意本角色将在保存后被覆盖",
+    "Clone Saved Character":
+     "复制已保存角色",
+    "This will make a clone of your saved character. It will ask you to provide a name for that character. If that name is already taken the action will be canceled.":
+     "复制此已保存的角色，会要求您输入副本的名称，名称不可与现有的相同",
+    "Set As Default Character":
+     "设置为默认角色",
+    "If you set this character as your default character, and you enable the 'Respawn As Default MP Character' option in the Misc Settings menu, then you will be set as this character whenever you (re)spawn.":
+     "设置后，开启其他选项中的“重生为线上模式角色”，您便会以此角色出生",
+    "Rename Saved Character":
+     "重命名已保存角色",
+    "You can rename this saved character. If the name is already taken then the action will be canceled.":
+     "重新命名此已保存角色，名称不可与现有的相同",
+    "Delete Saved Character":
+     "~r~删除已保存角色",
+    "Deletes the selected saved character. This can not be undone!":
+     "~r~删除此已保存角色，此操作不可撤销！",
+    "Create Male Character":
+     "创建男性角色",
+    "Create a new male character.":
+     "创建一名新的男性线上模式角色",
+    "Create Female Character":
+     "创建女性角色",
+    "Create a new female character.":
+     "创建一名新的女性线上模式角色",
+    "Saved Characters":
+     "已保存角色",
+    "Spawn, edit or delete your existing saved multiplayer characters.":
+     "刷出、修改或删除您保存的线上模式角色",
+    "Freeze/Unfreeze Time":
+     "冻结/解冻时间",
+    "Enable or disable time freezing.":
+     "开启或关闭时间停止",
+    "Early Morning":
+     "清露",
+    "Set the time to 06:00.":
+     "设定时间到 06:00.",
+    "Morning":
+     "朝晨",
+    "Set the time to 09:00.":
+     "设定时间到 09:00.",
+    "Noon":
+     "晌午",
+    "Set the time to 12:00.":
+     "设定时间到 12:00.",
+    "Early Afternoon":
+     "午后",
+    "Set the time to 15:00.":
+     "设定时间到 15:00.",
+    "Afternoon":
+     "黄昏",
+    "Set the time to 18:00.":
+     "设定时间到 18:00.",
+    "Evening":
+     "寂夜",
+    "Set the time to 21:00.":
+     "设定时间到 21:00.",
+    "Midnight":
+     "子夜",
+    "Set the time to 00:00.":
+     "设定时间到 00:00.",
+    "Night":
+     "越西",
+    "Set the time to 03:00.":
+     "设定时间到 03:00.",
+    "Set Custom Hour":
+     "设定到某时",
+    "Set Custom Minute":
+     "设定到某分",
+    "Toggle Dynamic Weather":
+     "切换动态天气",
+    "Enable or disable dynamic weather changes.":
+     "开启或关闭天气的动态变化",
+    "Toggle Blackout":
+     "切换大停电",
+    "This disables or enables all lights across the map.":
+     "开启或关闭地图上所有的灯光",
+    "Enable Snow Effects":
+     "开启大雪覆盖",
+    "This will force snow to appear on the ground and enable snow particle effects for peds and vehicles. Combine with X-MAS or Light Snow weather for best results.":
+     "强制开启雪天地图和雪天特效，和圣诞或小雪天气混用更佳",
+    "Extra Sunny":
+     "烈日当空",
+    "Set the weather to ~y~extra sunny~s~!":
+     "设置天气到 ~y~烈日当空~s~！",
+    "Clear":
+     "晴空万里",
+    "Set the weather to ~y~clear~s~!":
+     "设置天气到 ~y~晴天~s~！",
+    "Neutral":
+     "温暖宜人",
+    "Set the weather to ~y~neutral~s~!":
+     "设置天气到 ~y~普通天气~s~！",
+    "Smog":
+     "尘霾雾断",
+    "Set the weather to ~y~smog~s~!":
+     "设置天气到 ~y~雾霾天~s~！",
+    "Foggy":
+     "白雾浓浓",
+    "Set the weather to ~y~foggy~s~!":
+     "设置天气到 ~y~雾天~s~！",
+    "Cloudy":
+     "云卷云舒",
+    "Set the weather to ~y~clouds~s~!":
+     "设置天气到 ~y~多云天~s~！",
+    "Overcast":
+     "阴云沉沉",
+    "Set the weather to ~y~overcast~s~!":
+     "设置天气到 ~y~阴天~s~！",
+    "Clearing":
+     "凯风速晴",
+    "Set the weather to ~y~clearing~s~!":
+     "设置天气到 ~y~雨过天晴~s~！",
+    "Rainy":
+     "沙沙落雨",
+    "Set the weather to ~y~rain~s~!":
+     "设置天气到 ~y~下雨天~s~！",
+    "Thunder":
+     "雷雨乱作",
+    "Set the weather to ~y~thunder~s~!":
+     "设置天气到 ~y~雷雨天~s~！",
+    "Blizzard":
+     "狂风暴雪",
+    "Set the weather to ~y~blizzard~s~!":
+     "设置天气到 ~y~暴风雪~s~！",
+    "Snow":
+     "压城中雪",
+    "Set the weather to ~y~snow~s~!":
+     "设置天气到 ~y~中雪天~s~！",
+    "Light Snow":
+     "咪咪小雪",
+    "Set the weather to ~y~light snow~s~!":
+     "设置天气到 ~y~小雪天~s~！",
+    "X-MAS Snow":
+     "圣诞节",
+    "Set the weather to ~y~x-mas~s~!":
+     "设置天气到 ~y~圣诞节~s~！",
+    "Halloween":
+     "万圣节",
+    "Set the weather to ~y~halloween~s~!":
+     "设置天气到 ~y~万圣节~s~！",
+    "Randomize Clouds":
+     "随机云彩",
+    "Add random clouds to the sky!":
+     "向空中随机播撒一些云彩",
+    "Remove All Clouds":
+     "去除云彩",
+    "Remove all clouds from the sky!":
+     "吸走空中的所有云彩！",
+    "Parachute Options":
+     "降落伞选项",
+    "Toggle Primary Parachute":
+     "切换主降落伞包",
+    "Equip or remove the primary parachute":
+     "装备或卸下主要降落伞包",
+    "Enable Reserve Parachute":
+     "启用副降落伞包",
+    "Enables the reserve parachute. Only works if you enabled the primary parachute first. Reserve parachute can not be removed from the player once it's activated.":
+     "启用副降落伞包，需先装备主降落伞包。副降落伞包在开启后不可移除",
+    "Auto Equip Parachutes":
+     "自动装备降落伞包",
+    "Automatically equip a parachute and reserve parachute when entering planes/helicopters.":
+     "在您进入飞行载具后自动装备主副降落伞包",
+    "Unlimited Parachutes":
+     "无限降落伞包",
+    "Enable unlimited parachutes and reserve parachutes.":
+     "提供无限的降落伞包供您使用",
+    "Smoke Trail Color":
+     "烟带颜色",
+    "Choose a smoke trail color, then press select to change it. Changing colors takes 4 seconds, you can not use your smoke while the color is being changed.":
+     "选择一种烟雾颜色并选定来进行更改。更换需等待4秒钟",
+    "Primary Chute Style":
+     "主降落伞风格",
+    "Primary chute: Rainbow colored parachute.":
+     "主降落伞：彩虹色样式",
+    "Reserve Chute Style":
+     "副降落伞风格",
+    "Reserve chute: Rainbow colored parachute.":
+     "副降落伞：彩虹色样式",
+    "Weapons":
+     "武器",
+    "Handguns":
+     "手枪",
+    "AP Pistol":
+     "穿甲手枪",
+    "Open the options for ~y~AP Pistol~s~.":
+     "打开 ~y~穿甲手枪~s~ 的选项",
+    "Combat Pistol":
+     "战斗手枪",
+    "Open the options for ~y~Combat Pistol~s~.":
+     "打开 ~y~战斗手枪~s~ 的选项.",
+    "Double-Action Revolver":
+     "双动式左轮手枪",
+    "Open the options for ~y~Double-Action Revolver~s~.":
+     "打开 ~y~双动式左轮手枪~s~ 的选项.",
+    "Flare Gun":
+     "信号枪",
+    "Open the options for ~y~Flare Gun~s~.":
+     "打开 ~y~信号枪~s~ 的选项.",
+    "Heavy Pistol":
+     "重型手枪",
+    "Open the options for ~y~Heavy Pistol~s~.":
+     "打开 ~y~重型手枪~s~ 的选项.",
+    "Marksman Pistol":
+     "射手手枪",
+    "Open the options for ~y~Marksman Pistol~s~.":
+     "打开 ~y~射手手枪~s~ 的选项.",
+    "Pistol":
+     "手枪",
+    "Open the options for ~y~Pistol~s~.":
+     "打开 ~y~手枪~s~ 的选项.",
+    "Pistol .50":
+     "0.5 口径手枪",
+    "Open the options for ~y~Pistol .50~s~.":
+     "打开 ~y~0.5 口径手枪~s~ 的选项.",
+    "Pistol Mk II":
+     "Mk 2 手枪",
+    "Open the options for ~y~Pistol Mk II~s~.":
+     "打开 ~y~Mk 2 手枪~s~ 的选项.",
+    "Heavy Revolver":
+     "重型左轮手枪",
+    "Open the options for ~y~Heavy Revolver~s~.":
+     "打开 ~y~重型左轮手枪~s~ 的选项.",
+    "Heavy Revolver Mk II":
+     "Mk 2 重型左轮手枪",
+    "Open the options for ~y~Heavy Revolver Mk II~s~.":
+     "打开 ~y~Mk 2 重型左轮手枪~s~ 的选项.",
+    "SNS Pistol":
+     "劣质手枪",
+    "Open the options for ~y~SNS Pistol~s~.":
+     "打开 ~y~劣质手枪~s~ 的选项.",
+    "SNS Pistol Mk II":
+     "Mk 2 劣质手枪",
+    "Open the options for ~y~SNS Pistol Mk II~s~.":
+     "打开 ~y~Mk 2 劣质手枪~s~ 的选项.",
+    "Stun Gun":
+     "电击枪",
+    "Open the options for ~y~Stun Gun~s~.":
+     "打开 ~y~电击枪~s~ 的选项.",
+    "Vintage Pistol":
+     "老式手枪",
+    "Open the options for ~y~Vintage Pistol~s~.":
+     "打开 ~y~老式手枪~s~ 的选项.",
+    "Up-n-Atomizer":
+     "原子能枪",
+    "Open the options for ~y~Up-n-Atomizer~s~.":
+     "打开 ~y~原子能枪~s~ 的选项.",
+    "Ceramic Pistol":
+     "陶瓷手枪",
+    "Open the options for ~y~Ceramic Pistol~s~.":
+     "打开 ~y~陶瓷手枪~s~ 的选项.",
+    "Navy Revolver":
+     "海军左轮手枪",
+    "Open the options for ~y~Navy Revolver~s~.":
+     "打开 ~y~海军左轮手枪~s~ 的选项.",
+    "Perico Pistol":
+     "佩里科手枪",
+    "Open the options for ~y~Perico Pistol~s~.":
+     "打开 ~y~佩里科手枪~s~ 的选项.",
+    "Assault Rifles":
+     "突击步枪",
+    "Advanced Rifle":
+     "高级步枪",
+    "Open the options for ~y~Advanced Rifle~s~.":
+     "打开 ~y~高级步枪~s~ 的选项.",
+    "Assault Rifle":
+     "突击步枪",
+    "Open the options for ~y~Assault Rifle~s~.":
+     "打开 ~y~突击步枪~s~ 的选项.",
+    "Assault Rifle Mk II":
+     "Mk 2 突击步枪",
+    "Open the options for ~y~Assault Rifle Mk II~s~.":
+     "打开 ~y~Mk 2 突击步枪~s~ 的选项.",
+    "Bullpup Rifle":
+     "无托式步枪",
+    "Open the options for ~y~Bullpup Rifle~s~.":
+     "打开 ~y~无托式步枪~s~ 的选项.",
+    "Bullpup Rifle Mk II":
+     "Mk 2 无托式步枪",
+    "Open the options for ~y~Bullpup Rifle Mk II~s~.":
+     "打开 ~y~Mk 2 无托式步枪~s~ 的选项.",
+    "Carbine Rifle":
+     "卡宾步枪",
+    "Open the options for ~y~Carbine Rifle~s~.":
+     "打开 ~y~卡宾步枪~s~ 的选项.",
+    "Carbine Rifle Mk II":
+     "Mk 2 卡宾步枪",
+    "Open the options for ~y~Carbine Rifle Mk II~s~.":
+     "打开 ~y~Mk 2 卡宾步枪~s~ 的选项.",
+    "Compact Rifle":
+     "紧凑型步枪",
+    "Open the options for ~y~Compact Rifle~s~.":
+     "打开 ~y~紧凑型步枪~s~ 的选项.",
+    "Special Carbine":
+     "特制卡宾步枪",
+    "Open the options for ~y~Special Carbine~s~.":
+     "打开 ~y~特制卡宾步枪~s~ 的选项.",
+    "Special Carbine Mk II":
+     "Mk 2 特制卡宾步枪",
+    "Open the options for ~y~Special Carbine Mk II~s~.":
+     "打开 ~y~Mk 2 特制卡宾步枪~s~ 的选项.",
+    "Military Rifle":
+     "军用步枪",
+    "Open the options for ~y~Military Rifle~s~.":
+     "打开 ~y~军用步枪~s~ 的选项.",
+    "Shotguns":
+     "霰弹枪",
+    "Assault Shotgun":
+     "突击霰弹枪",
+    "Open the options for ~y~Assault Shotgun~s~.":
+     "打开 ~y~突击霰弹枪~s~ 的选项.",
+    "Sweeper Shotgun":
+     "冲锋霰弹枪",
+    "Open the options for ~y~Sweeper Shotgun~s~.":
+     "打开 ~y~冲锋霰弹枪~s~ 的选项.",
+    "Bullpup Shotgun":
+     "无托式霰弹枪",
+    "Open the options for ~y~Bullpup Shotgun~s~.":
+     "打开 ~y~无托式霰弹枪~s~ 的选项.",
+    "Double Barrel Shotgun":
+     "双管霰弹枪",
+    "Open the options for ~y~Double Barrel Shotgun~s~.":
+     "打开 ~y~双管霰弹枪~s~ 的选项.",
+    "Heavy Shotgun":
+     "重型霰弹枪",
+    "Open the options for ~y~Heavy Shotgun~s~.":
+     "打开 ~y~重型霰弹枪~s~ 的选项.",
+    "Pump Shotgun":
+     "泵动式霰弹枪",
+    "Open the options for ~y~Pump Shotgun~s~.":
+     "打开 ~y~泵动式霰弹枪~s~ 的选项.",
+    "Pump Shotgun Mk II":
+     "Mk 2 泵动式霰弹枪",
+    "Open the options for ~y~Pump Shotgun Mk II~s~.":
+     "打开 ~y~Mk 2 泵动式霰弹枪~s~ 的选项.",
+    "Sawed-Off Shotgun":
+     "短管霰弹枪",
+    "Open the options for ~y~Sawed-Off Shotgun~s~.":
+     "打开 ~y~短管霰弹枪~s~ 的选项.",
+    "Combat Shotgun":
+     "战斗霰弹枪",
+    "Open the options for ~y~Combat Shotgun~s~.":
+     "打开 ~y~战斗霰弹枪~s~ 的选项.",
+    "Sub-/Light Machine Guns":
+     "冲锋枪与轻机枪",
+    "Assault SMG":
+     "突击冲锋枪",
+    "Open the options for ~y~Assault SMG~s~.":
+     "打开 ~y~突击冲锋枪~s~ 的选项.",
+    "Combat MG":
+     "战斗机枪",
+    "Open the options for ~y~Combat MG~s~.":
+     "打开 ~y~战斗机枪~s~ 的选项.",
+    "Combat MG Mk II":
+     "Mk 2 战斗机枪",
+    "Open the options for ~y~Combat MG Mk II~s~.":
+     "打开 ~y~Mk 2 战斗机枪~s~ 的选项.",
+    "Combat PDW":
+     "作战自卫冲锋枪",
+    "Open the options for ~y~Combat PDW~s~.":
+     "打开 ~y~作战自卫冲锋枪~s~ 的选项.",
+    "Gusenberg Sweeper":
+     "古森柏冲锋枪",
+    "Open the options for ~y~Gusenberg Sweeper~s~.":
+     "打开 ~y~古森柏冲锋枪~s~ 的选项.",
+    "Machine Pistol":
+     "冲锋手枪",
+    "Open the options for ~y~Machine Pistol~s~.":
+     "打开 ~y~冲锋手枪~s~ 的选项.",
+    "MG":
+     "机枪",
+    "Open the options for ~y~MG~s~.":
+     "打开 ~y~机枪~s~ 的选项.",
+    "Micro SMG":
+     "微型冲锋枪",
+    "Open the options for ~y~Micro SMG~s~.":
+     "打开 ~y~微型冲锋枪~s~ 的选项.",
+    "Mini SMG":
+     "迷你冲锋枪",
+    "Open the options for ~y~Mini SMG~s~.":
+     "打开 ~y~迷你冲锋枪~s~ 的选项.",
+    "SMG":
+     "冲锋枪",
+    "Open the options for ~y~SMG~s~.":
+     "打开 ~y~冲锋枪~s~ 的选项.",
+    "SMG Mk II":
+     "Mk 2 冲锋枪",
+    "Open the options for ~y~SMG Mk II~s~.":
+     "打开 ~y~Mk 2 冲锋枪~s~ 的选项.",
+    "Unholy Hellbringer":
+     "邪恶冥王",
+    "Open the options for ~y~Unholy Hellbringer~s~.":
+     "打开 ~y~邪恶冥王~s~ 的选项.",
+    "Throwables":
+     "可投掷",
+    "Ball":
+     "球",
+    "Open the options for ~y~Ball~s~.":
+     "打开 ~y~球~s~ 的选项.",
+    "BZ Gas":
+     "毒气弹",
+    "Open the options for ~y~BZ Gas~s~.":
+     "打开 ~y~毒气弹~s~ 的选项.",
+    "Fire Extinguisher":
+     "灭火器",
+    "Open the options for ~y~Fire Extinguisher~s~.":
+     "打开 ~y~灭火器~s~ 的选项.",
+    "Flare":
+     "信号弹",
+    "Open the options for ~y~Flare~s~.":
+     "打开 ~y~信号弹~s~ 的选项.",
+    "Grenade":
+     "手榴弹",
+    "Open the options for ~y~Grenade~s~.":
+     "打开 ~y~手榴弹~s~ 的选项.",
+    "Molotov":
+     "汽油弹",
+    "Open the options for ~y~Molotov~s~.":
+     "打开 ~y~汽油弹~s~ 的选项.",
+    "Jerry Can":
+     "汽油桶",
+    "Open the options for ~y~Jerry Can~s~.":
+     "打开 ~y~汽油桶~s~ 的选项.",
+    "Pipe Bomb":
+     "土质炸弹",
+    "Open the options for ~y~Pipe Bomb~s~.":
+     "打开 ~y~土质炸弹~s~ 的选项.",
+    "Proximity Mine":
+     "感应地雷",
+    "Open the options for ~y~Proximity Mine~s~.":
+     "打开 ~y~感应地雷~s~ 的选项.",
+    "Tear Gas":
+     "催泪瓦斯",
+    "Open the options for ~y~Tear Gas~s~.":
+     "打开 ~y~催泪瓦斯~s~ 的选项.",
+    "Snowball":
+     "雪球",
+    "Open the options for ~y~Snowball~s~.":
+     "打开 ~y~雪球~s~ 的选项.",
+    "Sticky Bomb":
+     "黏弹",
+    "Open the options for ~y~Sticky Bomb~s~.":
+     "打开 ~y~黏弹~s~ 的选项.",
+    "Melee":
+     "近战",
+    "Baseball Bat":
+     "棒球棒",
+    "Open the options for ~y~Baseball Bat~s~.":
+     "打开 ~y~棒球棒~s~ 的选项.",
+    "Battle Axe":
+     "战斗斧",
+    "Open the options for ~y~Battle Axe~s~.":
+     "打开 ~y~战斗斧~s~ 的选项.",
+    "Bottle":
+     "酒瓶",
+    "Open the options for ~y~Bottle~s~.":
+     "打开 ~y~酒瓶~s~ 的选项.",
+    "Crowbar":
+     "撬棍",
+    "Open the options for ~y~Crowbar~s~.":
+     "打开 ~y~撬棍~s~ 的选项.",
+    "Antique Cavalry Dagger":
+     "古董骑兵匕首",
+    "Open the options for ~y~Antique Cavalry Dagger~s~.":
+     "打开 ~y~古董骑兵匕首~s~ 的选项.",
+    "Flashlight":
+     "手电筒",
+    "Open the options for ~y~Flashlight~s~.":
+     "打开 ~y~手电筒~s~ 的选项.",
+    "Golf Club":
+     "高尔夫球杆",
+    "Open the options for ~y~Golf Club~s~.":
+     "打开 ~y~高尔夫球杆~s~ 的选项.",
+    "Hammer":
+     "铁锤",
+    "Open the options for ~y~Hammer~s~.":
+     "打开 ~y~铁锤~s~ 的选项.",
+    "Hatchet":
+     "手斧",
+    "Open the options for ~y~Hatchet~s~.":
+     "打开 ~y~手斧~s~ 的选项.",
+    "Knife":
+     "小刀",
+    "Open the options for ~y~Knife~s~.":
+     "打开 ~y~小刀~s~ 的选项.",
+    "Knuckle Duster":
+     "手指虎",
+    "Open the options for ~y~Knuckle Duster~s~.":
+     "打开 ~y~手指虎~s~ 的选项.",
+    "Machete":
+     "开山刀",
+    "Open the options for ~y~Machete~s~.":
+     "打开 ~y~开山刀~s~ 的选项.",
+    "Nightstick":
+     "警棍",
+    "Open the options for ~y~Nightstick~s~.":
+     "打开 ~y~警棍~s~ 的选项.",
+    "Pool Cue":
+     "台球杆",
+    "Open the options for ~y~Pool Cue~s~.":
+     "打开 ~y~台球杆~s~ 的选项.",
+    "Switchblade":
+     "弹簧刀",
+    "Open the options for ~y~Switchblade~s~.":
+     "打开 ~y~弹簧刀~s~ 的选项.",
+    "Pipe Wrench":
+     "管钳扳手",
+    "Open the options for ~y~Pipe Wrench~s~.":
+     "打开 ~y~管钳扳手~s~ 的选项.",
+    "Stone Hatchet":
+     "石斧",
+    "Open the options for ~y~Stone Hatchet~s~.":
+     "打开 ~y~石斧~s~ 的选项.",
+    "Heavy Weapons":
+     "重武器",
+    "Compact Grenade Launcher":
+     "紧凑型榴弹发射器",
+    "Open the options for ~y~Compact Grenade Launcher~s~.":
+     "打开 ~y~紧凑型榴弹发射器~s~ 的选项.",
+    "Firework Launcher":
+     "烟花发射器",
+    "Open the options for ~y~Firework Launcher~s~.":
+     "打开 ~y~烟花发射器~s~ 的选项.",
+    "Grenade Launcher":
+     "榴弹发射器",
+    "Open the options for ~y~Grenade Launcher~s~.":
+     "打开 ~y~榴弹发射器~s~ 的选项.",
+    "Homing Launcher":
+     "指导火箭发射器",
+    "Open the options for ~y~Homing Launcher~s~.":
+     "打开 ~y~指导火箭发射器~s~ 的选项.",
+    "Minigun":
+     "火神机枪",
+    "Open the options for ~y~Minigun~s~.":
+     "打开 ~y~火神机枪~s~ 的选项.",
+    "Railgun":
+     "电磁步枪",
+    "Open the options for ~y~Railgun~s~.":
+     "打开 ~y~电磁步枪~s~ 的选项.",
+    "RPG":
+     "火箭炮",
+    "Open the options for ~y~RPG~s~.":
+     "打开 ~y~火箭炮~s~ 的选项.",
+    "Widowmaker":
+     "寡妇制造者",
+    "Open the options for ~y~Widowmaker~s~.":
+     "打开 ~y~寡妇制造者~s~ 的选项.",
+    "Sniper Rifles":
+     "狙击步枪",
+    "Heavy Sniper":
+     "重型狙击步枪",
+    "Open the options for ~y~Heavy Sniper~s~.":
+     "打开 ~y~重型狙击步枪~s~ 的选项.",
+    "Heavy Sniper Mk II":
+     "Mk 2 重型狙击步枪",
+    "Open the options for ~y~Heavy Sniper Mk II~s~.":
+     "打开 ~y~Mk 2 重型狙击步枪~s~ 的选项.",
+    "Marksman Rifle":
+     "射手步枪",
+    "Open the options for ~y~Marksman Rifle~s~.":
+     "打开 ~y~射手步枪~s~ 的选项.",
+    "Marksman Rifle Mk II":
+     "Mk 2 射手步枪",
+    "Open the options for ~y~Marksman Rifle Mk II~s~.":
+     "打开 ~y~Mk 2 射手步枪~s~ 的选项.",
+    "Musket":
+     "老式火枪",
+    "Open the options for ~y~Musket~s~.":
+     "打开 ~y~老式火枪~s~ 的选项.",
+    "Sniper Rifle":
+     "狙击步枪",
+    "Open the options for ~y~Sniper Rifle~s~.":
+     "打开 ~y~狙击步枪~s~ 的选项.",
+    "Get All Weapons":
+     "获得所有武器",
+    "Get all weapons.":
+     "添加所有武器到当前人物",
+    "Remove All Weapons":
+     "移除所有武器",
+    "Removes all weapons in your inventory.":
+     "从当前人物移除所有武器",
+    "Unlimited Ammo":
+     "无限弹药",
+    "Unlimited ammunition supply.":
+     "无限制的弹药供应",
+    "No Reload":
+     "无需换弹",
+    "Never reload.":
+     "再也不需要重新换装弹匣",
+    "Set All Ammo Count":
+     "设定所有弹药量",
+    "Set the amount of ammo in all your weapons.":
+     "为所有武器设定弹药量",
+    "Refill All Ammo":
+     "填充所有弹药",
+    "Give all your weapons max ammo.":
+     "将所有武器的弹药量设定到上限值",
+    "Spawn Weapon By Name":
+     "按名称刷出武器",
+    "Enter a weapon mode name to spawn.":
+     "手动输入武器模型名称以刷出武器",
+    "Addon Weapons":
+     "添加式武器",
+    "Equip / remove addon weapons available on this server.":
+     "装备或移除此服务器中可用的添加式武器",
+    "All parachute related options can be changed here.":
+     "这里有所有降落伞包相关的选项",
+    "~h~                   ↓ Weapon Categories ↓":
+     "~h~                             ↓ 武器类别 ↓",
+    "Manage Loadout":
+     "管理武器组",
+    "Manage saved weapon loadout":
+     "管理已保存的武器组",
+    "Equip Loadout":
+     "装备武器组",
+    "Spawn this saved weapons loadout. This will remove all your current weapons and replace them with this saved slot.":
+     "以此武器组替换目前您当前的所有武器",
+    "Rename Loadout":
+     "重命名武器组",
+    "Rename this saved loadout.":
+     "重命名此武器组",
+    "Clone Loadout":
+     "复制武器组",
+    "Clones this saved loadout to a new slot.":
+     "复制此武器组到一个新组",
+    "Set As Default Loadout":
+     "设置为默认武器组",
+    "Set this loadout to be your default loadout for whenever you (re)spawn. This will override the 'Restore Weapons' option inside the Misc Settings menu. You can toggle this option in the main Weapon Loadouts menu.":
+     "设置当前武器组为出生后的默认装备。这将覆盖“还原玩家武器”选项，可在之前的菜单里关闭此功能",
+    "~r~Replace Loadout":
+     "~r~替换武器组",
+    "~r~This replaces this saved slot with the weapons that you currently have in your inventory. This action can not be undone!":
+     "~r~使用当前您拥有的武器替换当前武器组。此操作不可撤销！",
+    "~r~Delete Loadout":
+     "~r~删除武器组",
+    "~r~This will delete this saved loadout. This action can not be undone!":
+     "~r~删除当前武器组。此操作不可撤销！",
+    "weapon loadouts management":
+     "武器组管理",
+    "Save Loadout":
+     "保存武器组",
+    "Save your current weapons into a new loadout slot.":
+     "将当前您所拥有的武器保存到一个新武器组",
+    "Manage Loadouts":
+     "管理武器组",
+    "Manage saved weapon loadouts.":
+     "管理已保存的武器组",
+    "Restore Default Loadout On Respawn":
+     "重生时还原默认武器组",
+    "If you've set a loadout as default loadout, then your loadout will be equipped automatically whenever you (re)spawn.":
+     "如果设定了默认武器组，在开启此选项后您会在出生后装备默认武器组所有的武器",
+    "Enable Voice Chat":
+     "开启语音聊天",
+    "Enable or disable voice chat.":
+     "开启或关闭语音聊天",
+    "Show Current Speaker":
+     "显示当前说话者",
+    "Shows who is currently talking.":
+     "显示当前正在说话的玩家名",
+    "Voice Chat Proximity":
+     "语音聊天接收距离",
+    "Set the voice chat receiving proximity in meters.":
+     "以米为单位设定接收语音聊天的距离",
+    "Voice Chat Channel":
+     "语音聊天频道",
+    "Set the voice chat channel.":
+     "设定您当前语音聊天的频道",
+    "Show Microphone Status":
+     "显示麦克风状态",
+    "Shows whether your microphone is open or muted.":
+     "显示当前您的麦克风是已开启或已禁音",
+    "Recording":
+     "片段录制",
+    "Start Recording":
+     "开始录制",
+    "Start a new game recording using GTA V's built in recording.":
+     "使用 GTAV 的游戏内录制开始一个新的片段录制",
+    "Stop Recording":
+     "停止录制",
+    "Stop and save your current recording.":
+     "停止并保存当前正在进行的片段录制",
+    "Rockstar Editor":
+     "摇滚明星编辑器",
+    "Open the Rockstar Editor, note you might want to quit the session first before doing this to prevent some issues.":
+     "打开摇滚明星编辑器，为避免一些问题，您可能需要退出当前战局",
+    "Teleport Options":
+     "瞬移相关选项",
+    "Teleport To Waypoint":
+     "瞬移到导航点",
+    "Teleport to the waypoint on your map.":
+     "瞬移到您在地图上设置的导航点所在的位置",
+    "Teleport To Coords":
+     "瞬移到某坐标",
+    "Enter the X, Y, Z coordinates and you will be teleported to that location.":
+     "瞬移到您所输入的在 x, y, z 轴上的坐标所在的位置",
+    "Teleport Locations":
+     "瞬移到某地点",
+    "Teleport to pre-configured locations, added by the server owner.":
+     "瞬移到预设地点，此项内容由服主管理",
+    "Save Teleport Location":
+     "保存瞬移地点",
+    "Adds your current location to the teleport locations menu and saves it on the server.":
+     "添加您当前的位置到服务器上的预设瞬移地点列表",
+    "Development Tools":
+     "开发者工具",
+    "Clear Area":
+     "清理本区域",
+    "Clears the area around your player (100 meters). Damage, dirt, peds, props, vehicles, etc. Everything gets cleaned up, fixed and reset to the default world state.":
+     "清理您周围100米的圆形区域。损伤、痕迹、行人、道具、载具等都会被清理, 并将区域还原到原本的世界状态",
+    "Show Coordinates":
+     "显示坐标",
+    "Show your current coordinates at the top of your screen.":
+     "在窗口上方显示您当前的坐标位置",
+    "Show Vehicle Dimensions":
+     "显示载具尺寸",
+    "Draws the model outlines for every vehicle that's currently close to you.":
+     "为每一辆接近您的载具绘制包囊盒",
+    "Show Prop Dimensions":
+     "显示物体尺寸",
+    "Draws the model outlines for every prop that's currently close to you.":
+     "为每一个接近您的动态物体绘制包囊盒",
+    "Show Ped Dimensions":
+     "显示人物尺寸",
+    "Draws the model outlines for every ped that's currently close to you.":
+     "为每一名接近您的人物角色绘制包囊盒",
+    "Show Entity Handles":
+     "显示实体句柄",
+    "Draws the the entity handles for all close entities (you must enable the outline functions above for this to work).":
+     "为每一个接近您的实体绘制句柄信息（需先开启显示尺寸功能）",
+    "Show Entity Models":
+     "显示实体模型",
+    "Draws the the entity models for all close entities (you must enable the outline functions above for this to work).":
+     "为每一个接近您的实体绘制模型信息（需先开启显示尺寸功能）",
+    "Show Network Owners":
+     "显示网络对象拥有者",
+    "Draws the the entity net owner for all close entities (you must enable the outline functions above for this to work).":
+     "为每一个接近您的实体绘制网络对象拥有者信息（需先开启显示尺寸功能）",
+    "Show Dimensions Radius":
+     "尺寸绘制距离",
+    "Show entity model/handle/dimension draw range.":
+     "设定以上绘制信息的显示距离",
+    "TM":
+     "时间循环",
+    "Select a timecycle modifier and enable the checkbox above.":
+     "设定一个时间循环修改器，需先在@@@@@方选项中启用",
+    "Enable Timecycle Modifier":
+     "启用时间循环修改",
+    "Enable or disable the timecycle modifier from the list below.":
+     "启用或关闭时间循环修改器",
+    "Timecycle Modifier Intensity":
+     "时间循环可见度",
+    "Set the timecycle modifier intensity.":
+     "设定时间循环的可见度",
+    "Entity Spawner":
+     "刷出实体",
+    "Spawn and move entities":
+     "刷出实体并移动实体",
+    "Spawn New Entity":
+     "刷出新实体",
+    "Spawns entity into the world and lets you set its position and rotation":
+     "在世界中刷出一个新实体并进行移动或旋转变换",
+    "Confirm Entity Position":
+     "确认实体位置",
+    "Stops placing entity and sets it at it current location.":
+     "确认实体摆放位置并刷出实体",
+    "Confirm Entity Position And Duplicate":
+     "确认实体位置并复制",
+    "Stops placing entity and sets it at it current location and creates new one to place.":
+     "确认实体摆放位置并在刷出实体后继续以当前实体进行摆放",
+    "Cancel":
+     "取消",
+    "Deletes current entity and cancels its placement":
+     "删除当前实体并取消放置",
+    "Keybind Settings":
+     "快捷键设置",
+    "Teleport to your waypoint when pressing the keybind. By default, this keybind is set to ~r~F7~s~, server owners are able to change this however so ask them if you don't know what it is.":
+     "按下默认按键 ~r~F7~s~后瞬移到导航点，服主可能会更改按键",
+    "Drift Mode":
+     "载具漂移模式",
+    "Makes your vehicle have almost no traction while holding left shift on keyboard, or X on controller.":
+     "让载具在按下左交换键（Alt）或手柄X键时轮胎打油 ",
+    "Recording Controls":
+     "录制控制",
+    "Enables or disables the recording (gameplay recording for the Rockstar editor) hotkeys on both keyboard and controller.":
+     "启用或停用键盘和手柄的游戏内录制热键",
+    "Minimap Controls":
+     "小地图控制",
+    "Press the Multiplayer Info (z on keyboard, down arrow on controller) key to switch between expanded radar and normal radar.":
+     "启用多人模式信息键（Z或手柄下方向键）对小地图展开的控制",
+    "Finger Point Controls":
+     "指向控制",
+    "Enables the finger point toggle key. The default QWERTY keyboard mapping for this is 'B', or for controller quickly double tap the right analog stick.":
+     "启用人物指向热键。在QWERTY键盘上默认为'B'键，手柄上为快速双击右摇杆",
+    "Back":
+     "返回",
+    "Connection Options":
+     "连接相关选项",
+    "Quit Session":
+     "退出战局",
+    "Leaves you connected to the server, but quits the network session. ~r~Can not be used when you are the host.":
+     "不退出服务器但退出当前会话。 ~r~当你是会话主机时不可用",
+    "Re-join Session":
+     "重进战局",
+    "This may not work in all cases, but you can try to use this if you want to re-join the previous session after clicking 'Quit Session'.":
+     "在退出后重新加入前一个会话，可能不可用",
+    "Quit Game":
+     "退出游戏",
+    "Exits the game after 5 seconds.":
+     "在五秒后退出游戏",
+    "Disconnect From Server":
+     "退出服务器",
+    "Disconnects you from the server and returns you to the serverlist. ~r~This feature is not recommended, quit the game completely instead and restart it for a better experience.":
+     "退出服务器并返回主菜单 ~r~不推荐，建议直接重启游戏",
+    "Various teleport options.":
+     "一些传送相关的选项",
+    "Developer Tools":
+     "开发者工具",
+    "Various development/debug tools.":
+     "一些开发排障工具",
+    "Right Align Menu":
+     "菜单右对齐",
+    "If you want vMenu to appear on the left side of your screen, disable this option. This option will be saved immediately. You don't need to click save preferences.":
+     "将本菜单放置于窗口右侧。此项设置会即时保存于个人设置中。",
+    "Disable Private Messages":
+     "关闭私聊信息",
+    "Prevent others from sending you a private message via the Online Players menu. This also prevents you from sending messages to other players.":
+     "阻止其他玩家通过在线玩家菜单向您发送私信。此项同时会阻止您发送私信",
+    "Disable Controller Support":
+     "关闭手柄支持",
+    "This disables the controller menu toggle key. This does NOT disable the navigation buttons.":
+     "此选项会禁用手柄上打开本菜单的热键，但手柄在本菜单中的导航依然可用",
+    "Show Speed KM/H":
+     "显示千米每时速度",
+    "Show a speedometer on your screen indicating your speed in KM/h.":
+     "在窗口底部以千米每时显示当前载具速度",
+    "Show Speed MPH":
+     "显示英里每时速度",
+    "Show a speedometer on your screen indicating your speed in MPH.":
+     "在窗口底部以英里每时显示当前载具速度",
+    "Enable or disable keybinds for some options.":
+     "开启或关闭一些选项的快捷键",
+    "Server connection/game quit options.":
+     "连接/退出服务器选项",
+    "Location Display":
+     "显示当前位置",
+    "Shows your current location and heading, as well as the nearest cross road. Similar like PLD. ~r~Warning: This feature (can) take(s) up to -4.6 FPS when running at 60 Hz.":
+     "在窗口左下显示您当前的位置与朝向以及最近的道路名称 ~r~会稍微拉低帧数",
+    "Show Time On Screen":
+     "显示游戏时间",
+    "Shows you the current time on screen.":
+     "在画面底部显示当前的游戏时间",
+    "Join / Quit Notifications":
+     "显示加入退出公告",
+    "Receive notifications when someone joins or leaves the server.":
+     "接收并显示某位玩家加入或退出服务器的公告通知",
+    "Death Notifications":
+     "显示死亡公告",
+    "Receive notifications when someone dies or gets killed.":
+     "接收并显示某位玩家死亡或被害的公告通知",
+    "Toggle Night Vision":
+     "切换夜视视图",
+    "Enable or disable night vision.":
+     "开启或关闭夜视增强视图",
+    "Toggle Thermal Vision":
+     "切换红外视图",
+    "Enable or disable thermal vision.":
+     "开启或关闭红外增强视图",
+    "Location Blips":
+     "显示地图标识",
+    "Shows blips on the map for some common locations.":
+     "在地图上显示一些常用地点的图标",
+    "Show Player Blips":
+     "显示玩家图标",
+    "Shows blips on the map for all players. ~y~Note for when the server is using OneSync Infinity: this won't work for players that are too far away.":
+     "在地图上显示玩家图标 ~y~服务器开启OneSync时, 不会显示距离较远的玩家",
+    "Show Player Names":
+     "显示玩家昵称",
+    "Enables or disables player overhead names.":
+     "开启或关闭玩家头顶的昵称显示",
+    "Respawn As Default MP Character":
+     "重生为线上模式角色",
+    "If you enable this, then you will (re)spawn as your default saved MP character. Note the server owner can globally disable this option. To set your default character, go to one of your saved MP Characters and click the 'Set As Default Character' button.":
+     "开启后，您会以保存的默认线上模式角色出生。注意服主可以全局禁用此项 您可以通过进入您所保存的线上模式角色项 子菜单后选择“设置为默认角色”按钮 来进行默认角色的设置",
+    "Restore Player Appearance":
+     "还原玩家样貌",
+    "Restore your player's skin whenever you respawn after being dead. Re-joining a server will not restore your previous skin.":
+     "在死亡重生后还原之前的玩家皮肤。退出服务器后不会保存",
+    "Restore Player Weapons":
+     "还原玩家武器",
+    "Restore your weapons whenever you respawn after being dead. Re-joining a server will not restore your previous weapons.":
+     "在死亡重生后还原之前所持有的武器。退出服务器后不会保存",
+    "Hide Radar":
+     "隐藏地图",
+    "Hide the radar/minimap.":
+     "隐藏雷达小地图",
+    "Hide Hud":
+     "隐藏界面",
+    "Hide all hud elements.":
+     "隐藏所有界面元素",
+    "Lock Camera Horizontal Rotation":
+     "锁定视角的水平偏转",
+    "Locks your camera horizontal rotation. Could be useful in helicopters I guess.":
+     "锁定玩家视角的水平偏转。大概在驾驶直升机上会有帮助",
+    "Lock Camera Vertical Rotation":
+     "锁定视角的垂直偏转",
+    "Locks your camera vertical rotation. Could be useful in helicopters I guess.":
+     "锁定玩家视角的垂直偏转。大概在驾驶直升机上会有帮助",
+    "Change Language":
+     "更改语言",
+    "Choose your preferred language.":
+     "选择您希望使用的语言",
+    "Save Personal Settings":
+     "保存个人设置",
+    "Save your current settings. All saving is done on the client side, if you re-install windows you will lose your settings. Settings are shared across all servers using vMenu.":
+     "保存您当前的一些通用设置到您的计算机上，如果 你重装了系统则会丢失 保存的设置。保存的设置适用于 所有使用 vMenu 的服务器",
+    "Miscellaneous":
+     "其他杂项",
+     "Plugins Menu":
+     "插件菜单",
+    "Time & Weather Options":
+     "时间天气相关选项",
+    "Change all time & weather related options here.":
+     "这里有与时间和天气相关的选项",
+    "Teleport Related Options":
+    "传送相关选项",
+    "Open this submenu for teleport options.":
+     "此菜单含有传送相关的子分类菜单",
+     "Client-Sided Time & Weather":
+     "客户端侧时间与天气修改",
+    "Enable or disable client-sided time and weather changes.":
+    "开启或关闭单独在客户端侧的时间与天气修改",
+    "Change Time":
+    "更改时间",
+    "Select time of day.":
+     "选择时间",
+     "Change Weather":
+     "更改天气",
+    "Select weather.":
+     "选择天气",
+    "Take Photo":
+     "拍张照",
+    "Takes a photo and saves it to the Pause Menu gallery.":
+     "拍张照并保存到暂停菜单里的相册",
+    "Open Gallery":
+    "打开相册",
+    "Opens the Pause Menu gallery.":
+    "打开暂停菜单里的相册",
+    "~y~↓ Miscellaneous ↓":
+    "~y~↓ 其他杂项 ↓",
+    "Opens the enhanced camera menu.":
+    "打开增强式镜头菜单",
+    "vMenu Version":
+     "当前 vMenu 版本",
+    "About vMenu / Credits":
+     "关于 vMenu 与著作信息",
+    "Reduce Drift Suspension":
+     "降低漂移悬挂",
+     "Reduce the suspension of the vehicle to make it even lower to drift. Use the option again to revert back to your original suspension. ~r~~h~This modification disables the original strAdvancedFlag of the vehicle!~s~~h~":
+     "降低悬挂使漂移时爬得更低。再按则关闭。~r~~h~会停用strAdvancedFlag！~s~~h~",
+    "Vehicle Stance":
+     "载具姿态",
+     "This will increase or decrease your Personal Vehicle's ride height. Note: This will only work with supported cars.":
+     "抬升或降低您的私有载具的液压高度，只在部分车辆上有效",
+    "Sort by Manufacturer":
+     "按生产商排序",
+    "Sort by Classes":
+     "按类别排序",
+    "Find your car by manufacturers instead of scrolling through classes":
+     "通过生产厂商寻找您想要的载具",
+    "Find your car by classes.":
+    "通过载具类别寻找您想要的载具",
+    "Become an animal. ~r~Note this may crash your own or other players' game if you die as an animal, godmode can NOT prevent this.":
+    "成为动物朋友 ~r~动物死亡可能会造成大家的游戏崩溃，无敌也救不了",
+    "Enhanced Camera":
+     "增强式镜头",
+    "Enable lead camera":
+     "启用跟踪镜头",
+    "Main camera, behaviour dependant on angular velocity of the car.":
+     "主要镜头，根据载具的侧翻角度有不同表现",
+    "Enable chase camera":
+     "启用追逐镜头",
+    "Locks to a target in front, switches to regular cam if target not in range.":
+     "锁定前方的一个目标，目标不在范围内时使用平常镜头",
+    "Enable drone camera":
+     "启用无人机镜头",
+    "Free drone camera to spectate/fly around. Different modes availble.":
+     "多轴飞行无人机，有多种飞行模式",
+    "Lead/chase cam parameters":
+     "跟踪/追逐镜头参数",
+    "Tune parameters for lead and chase camera":
+     "调试跟踪镜头和追逐镜头的参数",
+    "Drone cam parameters":
+     "无人机镜头参数",
+    "Tune parameters for drone camera":
+     "调试无人机镜头的参数",
+    "Credits":
+     "著作信息"
+}
