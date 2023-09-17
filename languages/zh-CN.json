@@ -446,7 +446,7 @@
     "Add Blip For Personal Vehicle": "为个人车辆添加标记",
     "Enables or disables the blip that gets added when you mark a vehicle as your personal vehicle.": "启用或禁用在您将车辆标记为个人车辆时添加的标记。",
     "Exclusive Driver": "独占驾驶员",
-    "If enabled, then you will be the only one that can enter the driver's seat. Other players will not be able to drive the car, however, they can still be passengers.": "如果启用，那么只有您可以进入驾驶员座位。其他玩家将无法驾驶汽车，但他们仍然可以成为乘客。",
+    "If enabled, then you will be the only one that can enter the drivers seat. Other players will not be able to drive the car, however, they can still be passengers.": "如果启用，那么只有您可以进入驾驶员座位。其他玩家将无法驾驶汽车，但他们仍然可以成为乘客。",
     "Spawn Ped": "生成PED",
     "Addon Peds": "附加PED",
     "Spawn a ped from the addon peds list.": "从附加PED列表中生成一个PED。",
