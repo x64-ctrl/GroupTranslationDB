@@ -339,7 +339,7 @@
     "This will teleport you into the vehicle when you spawn it.": "生成车辆时会将您传送到车辆内。",
     "Replace Previous Vehicle": "替换以前的车辆",
     "This will automatically delete your previously spawned vehicle when you spawn a new vehicle.": "生成新车辆时，将自动删除您以前生成的车辆。",
-    "Addon Vehicles": "附加车辆",
+    "~b~Addon Vehicles": "~b~添加式载具",
     "A list of addon vehicles available on this server.": "此服务器上可用的附加车辆列表。",
     "Compacts": "小型车",
     "Spawn a vehicle from the ~o~Compacts ~s~class.": "生成一个来自 ~o~小型车 ~s~类别的车辆。",
